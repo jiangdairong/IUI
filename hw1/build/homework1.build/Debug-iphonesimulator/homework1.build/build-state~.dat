@@ -1,0 +1,365 @@
+Thomework1
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch homework1/homework1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o /Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o /Users/dairong/Documents/專題/homework1/homework1/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o /Users/dairong/Documents/專題/homework1/homework1/TableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o /Users/dairong/Documents/專題/homework1/homework1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework1 normal i386
+cCopyStringsFile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings homework1/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/dairong/Documents/專題/homework1/homework1/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app /Users/dairong/Documents/專題/homework1/homework1/Images.xcassets
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005283344C0000000000000176
+t1384330316
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000526CD0A300000000000003B5
+t1382863011
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526CD0BF00000000000001A0
+t1382863039
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526CD0C40000000000445870
+t1382863044
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526CD0C7000000000088C680
+t1382863047
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526CD0D00000000001DB9910
+t1382863056
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000526CD1530000000000000AC9
+t1382863187
+s2761
+
+N/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/Base.lproj/Main.storyboardc
+t2
+s0
+
+N/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework1
+t2
+s0
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o
+t1393675967
+s65240
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o
+t1393675967
+s49900
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o
+t1393675967
+s58756
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/homework1.LinkFileList
+c000000005311CEB3000000000000021F
+t1393675955
+s543
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o
+t1393675967
+s3664
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_dependencies.txt
+t2
+s0
+
+N/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_generated_info.plist
+t2
+s0
+
+N/Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m
+c000000005311CBBA00000000000007D5
+t1393675194
+s2005
+
+N/Users/dairong/Documents/專題/homework1/homework1/Base.lproj/Main.storyboard
+c000000005311CEB300000000000016FE
+t1393675955
+s5886
+
+N/Users/dairong/Documents/專題/homework1/homework1/Images.xcassets
+c000000005311CBBA0000000000000088
+t1393675194
+s136
+
+N/Users/dairong/Documents/專題/homework1/homework1/TableCell.m
+c000000005311CE430000000000000250
+t1393675843
+s592
+
+N/Users/dairong/Documents/專題/homework1/homework1/TableViewController.m
+c000000005311CE000000000000000E23
+t1393675776
+s3619
+
+N/Users/dairong/Documents/專題/homework1/homework1/en.lproj/InfoPlist.strings
+c000000005311CBBA000000000000002D
+t1393675194
+s45
+
+N/Users/dairong/Documents/專題/homework1/homework1/homework1-Prefix.pch
+c000000005311CBBA0000000000000158
+t1393675194
+s344
+
+N/Users/dairong/Documents/專題/homework1/homework1/main.m
+c000000005311CBBA000000000000014F
+t1393675194
+s335
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch
+t1393675966
+s108540
+
+CBuild AST from /Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m
+r0
+
+CBuild AST from /Users/dairong/Documents/專題/homework1/homework1/TableCell.m
+r0
+
+CBuild AST from /Users/dairong/Documents/專題/homework1/homework1/TableViewController.m
+r0
+
+CBuild AST from /Users/dairong/Documents/專題/homework1/homework1/ViewController.m
+r0
+
+CBuild AST from /Users/dairong/Documents/專題/homework1/homework1/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies14ce8e3306c2b841^2027a43306c2b841^---0#1#1#--18"Check dependencies36"7371F36D-F27E-42DF-9155-007C6E977579-
+
+CCompileAssetCatalog /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app /Users/dairong/Documents/專題/homework1/homework1/Images.xcassets
+s415368769.828589
+e415368783.978332
+r1
+xCompileAssetCatalog
+x/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app
+x/Users/dairong/Documents/專題/homework1/homework1/Images.xcassets
+o2014-03-01 20:13:02.377 IBCocoaTouchImageCatalogTool[16877:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/LaunchImage-700-568h@2x.png
+o/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/Assets.car
+o/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CompileAssetCatalog build/Debug-iphonesimulator/homework1.app homework1/Images.xcassets87"CompileAssetCatalog build/Debug-iphonesimulator/homework1.app homework1/Images.xcassets5c38d44106c2b841^4b74fa4f06c2b841^-613"2014-03-01 20:13:02.377 IBCocoaTouchImageCatalogTool[16877:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/LaunchImage-700-568h@2x.png/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/Assets.car/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/Images.xcassets/0000000000000000^1103"CompileAssetCatalog build/Debug-iphonesimulator/homework1.app homework1/Images.xcassets    cd /Users/dairong/Documents/專題/homework1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app /Users/dairong/Documents/專題/homework1/homewo36"DC275DE2-5B3B-4C93-A460-C79251387D9C-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o /Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415368766.453923
+e415368767.359362
+r1
+xCompileC
+xbuild/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o
+x/Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m
+d/Users/dairong/Documents/專題/homework1/homework1/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m194"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o homework1/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerac54743e06c2b841^5b065c3f06c2b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/AppDelegate.m0000000000000000^3565"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o homework1/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/Documents/專題/homework1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/Documents/專題/homework1/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-generated-files.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-own-target-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-all-target-headers.hmap -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-project-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources/i386 -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.dia -c /Users/dairong/Documents/專題/homework1/homework1/AppDelegate.m -o /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimu36"738B5555-B7A4-4D2A-9DFC-2177A7070C84-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o /Users/dairong/Documents/專題/homework1/homework1/TableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415368766.454706
+e415368767.358245
+r1
+xCompileC
+xbuild/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o
+x/Users/dairong/Documents/專題/homework1/homework1/TableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/Documents/專題/homework1/homework1/TableCell.m
+d/Users/dairong/Documents/專題/homework1/homework1/TableCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/dairong/Documents/專題/homework1/homework1/TableCell.m190"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o homework1/TableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler029a743e06c2b841^5fb85b3f06c2b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/TableCell.m0000000000000000^3553"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o homework1/TableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/Documents/專題/homework1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/Documents/專題/homework1/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-generated-files.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-own-target-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-all-target-headers.hmap -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-project-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources/i386 -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.d --serialize-diagnostics /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.dia -c /Users/dairong/Documents/專題/homework1/homework1/TableCell.m -o /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesi36"916EC33D-198E-4B90-8814-DA5973D7B8B9-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o /Users/dairong/Documents/專題/homework1/homework1/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415368766.454271
+e415368767.412650
+r1
+xCompileC
+xbuild/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o
+x/Users/dairong/Documents/專題/homework1/homework1/TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/Documents/專題/homework1/homework1/TableViewController.m
+d/Users/dairong/Documents/專題/homework1/homework1/TableViewController.h
+d/Users/dairong/Documents/專題/homework1/homework1/TableCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/dairong/Documents/專題/homework1/homework1/TableViewController.m210"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o homework1/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere46a743e06c2b841^5ef4753f06c2b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/TableViewController.m0000000000000000^3613"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o homework1/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/Documents/專題/homework1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/Documents/專題/homework1/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-generated-files.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-own-target-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-all-target-headers.hmap -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-project-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources/i386 -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.d --serialize-diagnostics /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.dia -c /Users/dairong/Documents/專題/homework1/homework1/TableViewController.m -o /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/ho36"76263948-DE23-4EDC-9BFB-CE1B1074A16F-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/ViewController.o /Users/dairong/Documents/專題/homework1/homework1/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o /Users/dairong/Documents/專題/homework1/homework1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415368766.455372
+e415368767.353623
+r1
+xCompileC
+xbuild/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o
+x/Users/dairong/Documents/專題/homework1/homework1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/Documents/專題/homework1/homework1/main.m
+d/Users/dairong/Documents/專題/homework1/homework1/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/dairong/Documents/專題/homework1/homework1/main.m180"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o homework1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7ca743e06c2b841^87895a3f06c2b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/main.m0000000000000000^3523"CompileC build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o homework1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/Documents/專題/homework1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/Documents/專題/homework1/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-generated-files.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-own-target-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-all-target-headers.hmap -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-project-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources/i386 -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.dia -c /Users/dairong/Documents/專題/homework1/homework1/main.m -o /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iph36"7C926089-CB18-4B50-B686-58B0C211A1A9-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCompileStoryboard /Users/dairong/Documents/專題/homework1/homework1/Base.lproj/Main.storyboard
+s415368769.827761
+e415368791.942936
+r1
+xCompileStoryboard
+x/Users/dairong/Documents/專題/homework1/homework1/Base.lproj/Main.storyboard
+o2014-03-01 20:13:04.831 Interface Builder Cocoa Touch Tool[16876:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-03-01 20:13:11.588 Interface Builder Cocoa Touch Tool[16878:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard homework1/Base.lproj/Main.storyboard54"CompileStoryboard homework1/Base.lproj/Main.storyboardc1fed34106c2b841^457f505806c2b841^-464"2014-03-01 20:13:04.831 Interface Builder Cocoa Touch Tool[16876:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-03-01 20:13:11.588 Interface Builder Cocoa Touch Tool[16878:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/Base.lproj/Main.storyboard0000000000000000^845"CompileStoryboard homework1/Base.lproj/Main.storyboard    cd /Users/dairong/Documents/專題/homework1    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/Base.lproj/Main.storyboardc /Users/dairong/Documents/專題/homework1/homework1/Base.lproj/Main.storyboard36"4B2B7839-5E24-4FDF-BCF4-2AABDC326EE1-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CCopyStringsFile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings homework1/en.lproj/InfoPlist.strings
+s415368769.827571
+e415368770.067644
+r1
+xCopyStringsFile
+x/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings
+xhomework1/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy homework1/en.lproj/InfoPlist.strings121"CopyStringsFile build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings homework1/en.lproj/InfoPlist.strings8defd34106c2b841^5550114206c2b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/en.lproj/InfoPlist.strings0000000000000000^589"CopyStringsFile build/Debug-iphonesimulator/homework1.app/en.lproj/InfoPlist.strings homework1/en.lproj/InfoPlist.strings    cd /Users/dairong/Documents/專題/homework1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/en.lproj -- homework1/en.lproj/InfoPlist.strings36"178C1B67-561E-4FBC-8C6E-31209E4C0777-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CGenerateDSYMFile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app.dSYM /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework1
+r0
+
+CLd /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework1 normal i386
+s415368767.413693
+e415368769.826462
+r1
+xLd
+x/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework1
+xnormal
+xi386
+d/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/homework1.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/AppDelegate.o
+d/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableViewController.o
+d/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/TableCell.o
+d/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/homework166"Ld build/Debug-iphonesimulator/homework1.app/homework1 normal i386b9fa693f06c2b841^eb90d34106c2b841^---0#0#1#--1339"Ld build/Debug-iphonesimulator/homework1.app/homework1 normal i386    cd /Users/dairong/Documents/專題/homework1    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator -filelist /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/homework1.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/Objects-normal/i386/homework1_dependency_info.dat -o /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/36"6F03CF1E-9F17-43C2-819B-6095DF00D4E0-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CProcessInfoPlistFile /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app/Info.plist /Users/dairong/Documents/專題/homework1/homework1/homework1-Info.plist
+r0
+
+CProcessPCH /Users/dairong/Documents/專題/homework1/DerivedData/homework1/Index/PrecompiledHeaders/homework1-Prefix-csgcmzmpimcksybfytzofoacgydn_ast/homework1-Prefix.pch.pch homework1/homework1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch homework1/homework1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415368755.642305
+e415368766.453088
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch
+xhomework1/homework1-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/Documents/專題/homework1/homework1/homework1-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile homework1/homework1-Prefix.pch298"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch homework1/homework1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler878ba43306c2b841^4300743e06c2b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dairong/Documents/%E5%B0%88%E9%A1%8C/homework1/homework1/homework1-Prefix.pch0000000000000000^3656"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.pch homework1/homework1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/Documents/專題/homework1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/Documents/專題/homework1/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-generated-files.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-own-target-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-all-target-headers.hmap -iquote /Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/homework1-project-headers.hmap -I/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources/i386 -I/Users/dairong/Documents/專題/homework1/build/homework1.build/Debug-iphonesimulator/homework1.build/DerivedSources -F/Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyqcpwgazbhvoouehmmgi/homework1-Prefix.pch.d -c /Users/dairong/Documents/專題/homework1/homework1/homework1-Prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/homework1-Prefix-cqlwcfhmyq36"E3FC96A2-D8DA-424A-8A5F-9750054EAAF8-
+bB73DCB31-F354-487F-9646-9BA14AFC2015
+
+CTouch /Users/dairong/Documents/專題/homework1/build/Debug-iphonesimulator/homework1.app
+r0
+
