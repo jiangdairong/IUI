@@ -1,0 +1,1540 @@
+Thw2
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o /Users/dairong/IUI/hw2/hw2/CollectionView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o /Users/dairong/IUI/hw2/hw2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o /Users/dairong/IUI/hw2/hw2/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o /Users/dairong/IUI/hw2/hw2/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o /Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o /Users/dairong/IUI/hw2/hw2/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o /Users/dairong/IUI/hw2/hw2/CollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o /Users/dairong/IUI/hw2/hw2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o /Users/dairong/IUI/hw2/hw2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2 normal i386
+cCpResource hw2/image/e2.jpeg build/Debug-iphonesimulator/hw2.app/e2.jpeg
+cCpResource hw2/image/d1.jpeg build/Debug-iphonesimulator/hw2.app/d1.jpeg
+cCpResource hw2/image/b3.jpeg build/Debug-iphonesimulator/hw2.app/b3.jpeg
+cCpResource hw2/image/e3.jpeg build/Debug-iphonesimulator/hw2.app/e3.jpeg
+cCpResource hw2/image/a3.jpeg build/Debug-iphonesimulator/hw2.app/a3.jpeg
+cCpResource hw2/image/a2.jpg build/Debug-iphonesimulator/hw2.app/a2.jpg
+cCpResource hw2/image/b1.jpeg build/Debug-iphonesimulator/hw2.app/b1.jpeg
+cCopyStringsFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings hw2/en.lproj/InfoPlist.strings
+cCpResource hw2/image/d2.jpeg build/Debug-iphonesimulator/hw2.app/d2.jpeg
+cCpResource hw2/image/a1.jpeg build/Debug-iphonesimulator/hw2.app/a1.jpeg
+cCpResource hw2/image/rank.png build/Debug-iphonesimulator/hw2.app/rank.png
+cCpResource hw2/image/c3.jpeg build/Debug-iphonesimulator/hw2.app/c3.jpeg
+cCompileStoryboard /Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard
+cCpResource hw2/image/b2.jpeg build/Debug-iphonesimulator/hw2.app/b2.jpeg
+cCompileAssetCatalog /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app /Users/dairong/IUI/hw2/hw2/Images.xcassets
+cProcessInfoPlistFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Info.plist /Users/dairong/IUI/hw2/hw2/hw2-Info.plist
+cGenerateDSYMFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2
+cTouch /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005283344C0000000000000176
+t1384330316
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000526CD0A300000000000003B5
+t1382863011
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526CD0BF00000000000001A0
+t1382863039
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000526CD0C300000000005838D0
+t1382863043
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526CD0C400000000005B82A0
+t1382863044
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526CD0C40000000000445870
+t1382863044
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000526CD0C40000000000355050
+t1382863044
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000526CD0C500000000002F6810
+t1382863045
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000526CD0C5000000000004B000
+t1382863045
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526CD0C7000000000088C680
+t1382863047
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000526CD0CB0000000000037620
+t1382863051
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000526CD0CC00000000004848F0
+t1382863052
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000526CD0CC00000000001290B0
+t1382863052
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526CD0D00000000001DB9910
+t1382863056
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000526CD0EE00000000002B9F20
+t1382863086
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000526CD0FF0000000000002338
+t1382863103
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000526CD100000000000008D300
+t1382863104
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000526CD0FF000000000038ACB0
+t1382863103
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005312249300000000000141F0
+t1393697939
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000526CD1000000000000013500
+t1382863104
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000526CD1000000000000033BA0
+t1382863104
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000526CD100000000000001CFB0
+t1382863104
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000526CD100000000000001B2B0
+t1382863104
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000526CD10000000000000632B0
+t1382863104
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000526CD1000000000000008880
+t1382863104
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000526CD1000000000000015080
+t1382863104
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000526CD10000000000000230E0
+t1382863104
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000526CD100000000000000E380
+t1382863104
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526CD1000000000000087200
+t1382863104
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000526CD10000000000000171A0
+t1382863104
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000526CD1000000000000039C10
+t1382863104
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000526CD100000000000000B0B0
+t1382863104
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000526CD1000000000000167FE0
+t1382863104
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000526CD10000000000000106A0
+t1382863104
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000526CD100000000000001CE40
+t1382863104
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000526CD1000000000000071040
+t1382863104
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000526CD1000000000000067A10
+t1382863104
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000526CD100000000000001BAD0
+t1382863104
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000526CD1000000000000088BA0
+t1382863104
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000526CD1530000000000000AC9
+t1382863187
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000526CD1530000000000005004
+t1382863187
+s20484
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app
+t1394473832
+s1394
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM
+t1394473832
+s102
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Base.lproj/Main.storyboardc
+t1394472848
+s306
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Info.plist
+t1394473832
+s1177
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/PkgInfo
+t1394473832
+s8
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a1.jpeg
+t1394471562
+s62046
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a2.jpg
+t1394471562
+s308854
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a3.jpeg
+t1394471562
+s13595
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b1.jpeg
+t1394471562
+s14960
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b2.jpeg
+t1394471562
+s20205
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b3.jpeg
+t1394471562
+s21395
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/c3.jpeg
+t1394471899
+s30501
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/d1.jpeg
+t1394471899
+s30952
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/d2.jpeg
+t1394471899
+s24541
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/e2.jpeg
+t1394471899
+s20302
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/e3.jpeg
+t1394471899
+s17775
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings
+t1394206059
+s42
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2
+t1394472316
+s61800
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/rank.png
+t1394472220
+s16640
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top1.jpeg
+t1394221128
+s66239
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top2.jpeg
+t1394268221
+s47308
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top3.jpeg
+t1394270430
+s17271
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top4.jpeg
+t1394270430
+s10259
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top5.jpeg
+t1394270430
+s24111
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top6.jpeg
+t1394270430
+s23134
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top7.jpeg
+t1394270430
+s30439
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top8.jpeg
+t1394270430
+s36396
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topa.jpeg
+t1394271845
+s66239
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topb.jpeg
+t1394271845
+s47308
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topc.jpeg
+t1394271845
+s17271
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topd.jpeg
+t1394271845
+s10259
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/tope.jpeg
+t1394271845
+s24111
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topf.jpeg
+t1394271845
+s23134
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topg.jpeg
+t1394271845
+s30439
+
+N/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/toph.jpeg
+t1394271845
+s21586
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o
+t1394264832
+s65172
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o
+t1394420423
+s41128
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o
+t1394467922
+s43188
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o
+t1394471898
+s54860
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o
+t1394471964
+s51840
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o
+t1394472219
+s77072
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o
+c00000000531D133C000000000000A0B4
+t1394414396
+s41140
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/hw2.LinkFileList
+c00000000531DC53A00000000000003C6
+t1394459962
+s966
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o
+t1394264832
+s3596
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o
+t1394472315
+s52508
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o
+c00000000531D1FB5000000000000BAF8
+t1394417589
+s47864
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o
+t1394468919
+s47644
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_dependencies.txt
+t1394473831
+s601
+
+N/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_generated_info.plist
+t1394473831
+s1063
+
+N/Users/dairong/IUI/hw2/hw2/AppDelegate.h
+c000000005319B201000000000000010D
+t1394192897
+s269
+
+N/Users/dairong/IUI/hw2/hw2/AppDelegate.m
+c000000005319B20100000000000007CF
+t1394192897
+s1999
+
+N/Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard
+c00000000531DF77D00000000000062E1
+t1394472829
+s25313
+
+N/Users/dairong/IUI/hw2/hw2/CollectionView.h
+c00000000531D28F800000000000000D0
+t1394419960
+s208
+
+N/Users/dairong/IUI/hw2/hw2/CollectionView.m
+c00000000531D28F8000000000000021C
+t1394419960
+s540
+
+N/Users/dairong/IUI/hw2/hw2/CollectionViewCell.h
+c00000000531D2AC60000000000000117
+t1394420422
+s279
+
+N/Users/dairong/IUI/hw2/hw2/CollectionViewCell.m
+c00000000531DE4510000000000000231
+t1394467921
+s561
+
+N/Users/dairong/IUI/hw2/hw2/DetailViewController.h
+c00000000531DD67900000000000001FC
+t1394464377
+s508
+
+N/Users/dairong/IUI/hw2/hw2/DetailViewController.m
+c00000000531DF3DA0000000000000765
+t1394471898
+s1893
+
+N/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.h
+c00000000531DEEBA00000000000001F9
+t1394470586
+s505
+
+N/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m
+c00000000531DF41A00000000000004B0
+t1394471962
+s1200
+
+N/Users/dairong/IUI/hw2/hw2/Images.xcassets
+c00000000531DFB550000000000000088
+t1394473813
+s136
+
+N/Users/dairong/IUI/hw2/hw2/ViewController.h
+c00000000531DD67900000000000001C8
+t1394464377
+s456
+
+N/Users/dairong/IUI/hw2/hw2/ViewController.m
+c00000000531DF51900000000000010F2
+t1394472217
+s4338
+
+N/Users/dairong/IUI/hw2/hw2/collectionCell.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dairong/IUI/hw2/hw2/collectionCell.m
+c00000000531B0B2C000000000000021B
+t1394281260
+s539
+
+N/Users/dairong/IUI/hw2/hw2/en.lproj/InfoPlist.strings
+c000000005319B201000000000000002D
+t1394192897
+s45
+
+N/Users/dairong/IUI/hw2/hw2/hw2-Info.plist
+c000000005319B20100000000000004C0
+t1394192897
+s1216
+
+N/Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch
+c000000005319B2010000000000000158
+t1394192897
+s344
+
+N/Users/dairong/IUI/hw2/hw2/image/a1.jpeg
+c00000000531DF0C3000000000000F25E
+t1394471107
+s62046
+
+N/Users/dairong/IUI/hw2/hw2/image/a2.jpg
+c00000000531DF11D000000000004B676
+t1394471197
+s308854
+
+N/Users/dairong/IUI/hw2/hw2/image/a3.jpeg
+c00000000531DF150000000000000351B
+t1394471248
+s13595
+
+N/Users/dairong/IUI/hw2/hw2/image/b1.jpeg
+c00000000531DF16C0000000000003A70
+t1394471276
+s14960
+
+N/Users/dairong/IUI/hw2/hw2/image/b2.jpeg
+c00000000531DF1770000000000004EED
+t1394471287
+s20205
+
+N/Users/dairong/IUI/hw2/hw2/image/b3.jpeg
+c00000000531DF1820000000000005393
+t1394471298
+s21395
+
+N/Users/dairong/IUI/hw2/hw2/image/c3.jpeg
+c00000000531DF3A00000000000007725
+t1394471840
+s30501
+
+N/Users/dairong/IUI/hw2/hw2/image/d1.jpeg
+c00000000531DF2E800000000000078E8
+t1394471656
+s30952
+
+N/Users/dairong/IUI/hw2/hw2/image/d2.jpeg
+c00000000531DF2F40000000000005FDD
+t1394471668
+s24541
+
+N/Users/dairong/IUI/hw2/hw2/image/e2.jpeg
+c00000000531DF3AB0000000000004F4E
+t1394471851
+s20302
+
+N/Users/dairong/IUI/hw2/hw2/image/e3.jpeg
+c00000000531DF3BC000000000000456F
+t1394471868
+s17775
+
+N/Users/dairong/IUI/hw2/hw2/image/rank.png
+c00000000531DF4DE0000000000004100
+t1394472158
+s16640
+
+N/Users/dairong/IUI/hw2/hw2/image/top1.jpeg
+c00000000531A0C5400000000000102BF
+t1394216020
+s66239
+
+N/Users/dairong/IUI/hw2/hw2/image/top2.jpeg
+c00000000531AD796000000000000B8CC
+t1394268054
+s47308
+
+N/Users/dairong/IUI/hw2/hw2/image/top3.jpeg
+c00000000531ADEE80000000000004377
+t1394269928
+s17271
+
+N/Users/dairong/IUI/hw2/hw2/image/top4.jpeg
+c00000000531ADF1B0000000000002813
+t1394269979
+s10259
+
+N/Users/dairong/IUI/hw2/hw2/image/top5.jpeg
+c00000000531ADF2B0000000000005E2F
+t1394269995
+s24111
+
+N/Users/dairong/IUI/hw2/hw2/image/top6.jpeg
+c00000000531ADF3E0000000000005A5E
+t1394270014
+s23134
+
+N/Users/dairong/IUI/hw2/hw2/image/top7.jpeg
+c00000000531ADF5E00000000000076E7
+t1394270046
+s30439
+
+N/Users/dairong/IUI/hw2/hw2/image/top8.jpeg
+c00000000531ADF6E0000000000008E2C
+t1394270062
+s36396
+
+N/Users/dairong/IUI/hw2/hw2/image/topa.jpeg
+c00000000531A0C5400000000000102BF
+t1394216020
+s66239
+
+N/Users/dairong/IUI/hw2/hw2/image/topb.jpeg
+c00000000531AD796000000000000B8CC
+t1394268054
+s47308
+
+N/Users/dairong/IUI/hw2/hw2/image/topc.jpeg
+c00000000531AE5980000000000004377
+t1394271640
+s17271
+
+N/Users/dairong/IUI/hw2/hw2/image/topd.jpeg
+c00000000531AE5AB0000000000002813
+t1394271659
+s10259
+
+N/Users/dairong/IUI/hw2/hw2/image/tope.jpeg
+c00000000531AE5B40000000000005E2F
+t1394271668
+s24111
+
+N/Users/dairong/IUI/hw2/hw2/image/topf.jpeg
+c00000000531AE5BC0000000000005A5E
+t1394271676
+s23134
+
+N/Users/dairong/IUI/hw2/hw2/image/topg.jpeg
+c00000000531AE5C400000000000076E7
+t1394271684
+s30439
+
+N/Users/dairong/IUI/hw2/hw2/image/toph.jpeg
+c00000000531AE6380000000000005452
+t1394271800
+s21586
+
+N/Users/dairong/IUI/hw2/hw2/main.m
+c000000005319B2010000000000000149
+t1394192897
+s329
+
+N/Users/dairong/IUI/hw2/hw2/myCell.h
+c00000000531DC9760000000000000175
+t1394461046
+s373
+
+N/Users/dairong/IUI/hw2/hw2/myCell.m
+c00000000531DF579000000000000040E
+t1394472313
+s1038
+
+N/Users/dairong/IUI/hw2/hw2/secondCell.h
+c00000000531DE8320000000000000102
+t1394468914
+s258
+
+N/Users/dairong/IUI/hw2/hw2/secondCell.m
+c00000000531DE7900000000000000251
+t1394468752
+s593
+
+N/Users/dairong/IUI/hw2/myCollectView.h
+c00000000531D1FB30000000000000182
+t1394417587
+s386
+
+N/Users/dairong/IUI/hw2/myCollectView.m
+c00000000531B54DB0000000000000218
+t1394300123
+s536
+
+N/usr/lib/libSystem.B.dylib
+c00000000526C9DAB000000000000E6D0
+t1382849963
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526C9DC30000000000012A00
+t1382849987
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526C9D97000000000002E320
+t1382849943
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526C9DAB0000000000021860
+t1382849963
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526C9DC1000000000001B620
+t1382849985
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526C9DC100000000000BD920
+t1382849985
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005312249300000000000141F0
+t1393697939
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526C9DC3000000000000A120
+t1382849987
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053122493000000000001D550
+t1393697939
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526C9DC10000000000014EE0
+t1382849985
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526C9DC60000000000010380
+t1382849990
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526C9DC6000000000000C4C0
+t1382849990
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526C9DC300000000000357A0
+t1382849987
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526C9DC3000000000000C070
+t1382849987
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531224930000000000010630
+t1393697939
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053122493000000000001DF10
+t1393697939
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526C9DAB0000000000075B00
+t1382849963
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526C9DAB00000000000766C0
+t1382849963
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526C9DAB0000000000021FA0
+t1382849963
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053122493000000000002D920
+t1393697939
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526C9DC4000000000001E570
+t1382849988
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053122493000000000000CC70
+t1393697939
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526C9DBB000000000000C3F0
+t1382849979
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526C9DC400000000000199F0
+t1382849988
+s104944
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch
+t1394206056
+s107044
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch
+t1394264829
+s112964
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/AppDelegate.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/CollectionView.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/CollectionViewCell.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/DetailViewController.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/ViewController.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/collectionCell.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/main.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/myCell.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/hw2/secondCell.m
+r0
+
+CBuild AST from /Users/dairong/IUI/hw2/myCollectView.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese658664333ceb841^6e137e4333ceb841^---0#1#1#--18"Check dependencies36"67043736-9325-4375-8865-E9F87685AA0E-
+
+CCompileAssetCatalog /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app /Users/dairong/IUI/hw2/hw2/Images.xcassets
+s416166620.075252
+e416166631.981186
+r1
+xCompileAssetCatalog
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app
+x/Users/dairong/IUI/hw2/hw2/Images.xcassets
+o2014-03-11 01:50:31.589 IBCocoaTouchImageCatalogTool[17716:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon29x29@2x.png
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon40x40@2x.png
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon60x60@2x.png
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/LaunchImage-700@2x.png
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/LaunchImage-700-568h@2x.png
+o/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Assets.car
+o/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"CompileAssetCatalog build/Debug-iphonesimulator/hw2.app hw2/Images.xcassets75"CompileAssetCatalog build/Debug-iphonesimulator/hw2.app hw2/Images.xcassets505313dc32ceb841^f625fbe732ceb841^-851"2014-03-11 01:50:31.589 IBCocoaTouchImageCatalogTool[17716:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon29x29@2x.png/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon40x40@2x.png/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/AppIcon60x60@2x.png/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/LaunchImage-700@2x.png/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/LaunchImage-700-568h@2x.png/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Assets.car/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@50"file:///Users/dairong/IUI/hw2/hw2/Images.xcassets/0000000000000000^980"CompileAssetCatalog build/Debug-iphonesimulator/hw2.app hw2/Images.xcassets    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app /Users/dairong/IUI/hw2/hw2/Images.xcassets36"4BFEC84C-42B1-4E3D-8452-FD77D79905C4-
+bE79D966C-38FC-498E-9EA8-0AF0608F8098
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o /Users/dairong/IUI/hw2/hw2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415957631.759795
+e415957632.105758
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o
+x/Users/dairong/IUI/hw2/hw2/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/AppDelegate.m
+d/Users/dairong/IUI/hw2/hw2/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/dairong/IUI/hw2/hw2/AppDelegate.m176"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o hw2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler809ac27f02cbb841^b5151b8002cbb841^---0#0#1#-19%DVTDocumentLocation2@47"file:///Users/dairong/IUI/hw2/hw2/AppDelegate.m0000000000000000^3187"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o hw2/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.dia -c /Users/dairong/IUI/hw2/hw2/AppDelegate.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o36"FAD69756-3742-42E0-9198-7397E4D38DCA-
+bEB016C9D-7566-47DC-9D3A-481C3B22EE45
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o /Users/dairong/IUI/hw2/hw2/CollectionView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416113222.965753
+e416113223.341955
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o
+x/Users/dairong/IUI/hw2/hw2/CollectionView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/CollectionView.m
+d/Users/dairong/IUI/hw2/hw2/CollectionView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/dairong/IUI/hw2/hw2/CollectionView.m182"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o hw2/CollectionView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler635ef74662cdb841^a08a574762cdb841^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/dairong/IUI/hw2/hw2/CollectionView.m0000000000000000^3205"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o hw2/CollectionView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.dia -c /Users/dairong/IUI/hw2/hw2/CollectionView.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o36"F49700FD-E269-4DF9-A5D4-FA3B5076EA79-
+bAD00D1C0-41D8-4CDE-96D3-CBA95C0B7149
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o /Users/dairong/IUI/hw2/hw2/CollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416160721.972341
+e416160722.117117
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o
+x/Users/dairong/IUI/hw2/hw2/CollectionViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/CollectionViewCell.m
+d/Users/dairong/IUI/hw2/hw2/CollectionViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/dairong/IUI/hw2/hw2/CollectionViewCell.m190"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o hw2/CollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler450ef9d11bceb841^69fd1dd21bceb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/dairong/IUI/hw2/hw2/CollectionViewCell.m0000000000000000^3229"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o hw2/CollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.dia -c /Users/dairong/IUI/hw2/hw2/CollectionViewCell.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o36"4EE4523C-7FBD-4788-B59B-7DD653DDA1C0-
+b3E3E6C37-C394-42F5-8C27-A68F179FB6B7
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o /Users/dairong/IUI/hw2/hw2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416164698.269427
+e416164698.551782
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o
+x/Users/dairong/IUI/hw2/hw2/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/DetailViewController.m
+d/Users/dairong/IUI/hw2/hw2/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/dairong/IUI/hw2/hw2/DetailViewController.m194"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o hw2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler450e455a2bceb841^46448d5a2bceb841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/dairong/IUI/hw2/hw2/DetailViewController.m0000000000000000^3241"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o hw2/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.dia -c /Users/dairong/IUI/hw2/hw2/DetailViewController.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o36"C6B67C58-2C0D-4EDE-AB11-F312AECDA9A4-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o /Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416164762.932396
+e416164764.519719
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o
+x/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m
+d/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m200"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o hw2/DetailtwoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler68ceee9a2bceb841^5a66859c2bceb841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m0000000000000000^3259"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o hw2/DetailtwoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.dia -c /Users/dairong/IUI/hw2/hw2/DetailtwoViewController.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o36"6696F1F7-9FB2-4CAA-980A-3E339EEE6045-
+b313EF0C3-C536-4EE5-8090-987FFFD2523A
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o /Users/dairong/IUI/hw2/hw2/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416165017.722908
+e416165019.819407
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o
+x/Users/dairong/IUI/hw2/hw2/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/ViewController.m
+d/Users/dairong/IUI/hw2/hw2/ViewController.h
+d/Users/dairong/IUI/hw2/hw2/myCell.h
+d/Users/dairong/IUI/hw2/hw2/secondCell.h
+d/Users/dairong/IUI/hw2/hw2/DetailViewController.h
+d/Users/dairong/IUI/hw2/hw2/DetailtwoViewController.h
+d/Users/dairong/IUI/hw2/hw2/CollectionViewCell.h
+d/Users/dairong/IUI/hw2/hw2/CollectionView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/dairong/IUI/hw2/hw2/ViewController.m182"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o hw2/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerba31b9992cceb841^3fc5d19b2cceb841^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/dairong/IUI/hw2/hw2/ViewController.m0000000000000000^3205"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o hw2/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.dia -c /Users/dairong/IUI/hw2/hw2/ViewController.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o36"6F0EFE89-3943-4E35-A47F-0615917E72FF-
+bCA8FCFFA-CF6E-4F5C-9695-D44A259B2354
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o /Users/dairong/IUI/hw2/hw2/collectionCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416107193.655189
+e416107196.119636
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o
+x/Users/dairong/IUI/hw2/hw2/collectionCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/collectionCell.m
+d/Users/dairong/IUI/hw2/hw2/collectionCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/dairong/IUI/hw2/hw2/collectionCell.m182"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o hw2/collectionCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercdcda7b94acdb841^a9a01ebc4acdb841^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/dairong/IUI/hw2/hw2/collectionCell.m0000000000000000^3205"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o hw2/collectionCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.dia -c /Users/dairong/IUI/hw2/hw2/collectionCell.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/collectionCell.o36"2E82E0A6-4527-404F-81F9-C6A958394680-
+b5170D81B-1C6B-42D4-8145-083A0B042441
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o /Users/dairong/IUI/hw2/hw2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415957631.819973
+e415957632.007731
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o
+x/Users/dairong/IUI/hw2/hw2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/main.m
+d/Users/dairong/IUI/hw2/hw2/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/dairong/IUI/hw2/hw2/main.m162"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o hw2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a13d27f02cbb841^cefd018002cbb841^---0#0#1#-19%DVTDocumentLocation2@40"file:///Users/dairong/IUI/hw2/hw2/main.m0000000000000000^3145"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o hw2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.dia -c /Users/dairong/IUI/hw2/hw2/main.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o36"5735BCDA-D88E-4612-931B-A8297EAB8EE4-
+bEB016C9D-7566-47DC-9D3A-481C3B22EE45
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o /Users/dairong/IUI/hw2/hw2/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416165113.780791
+e416165115.685170
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o
+x/Users/dairong/IUI/hw2/hw2/myCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/myCell.m
+d/Users/dairong/IUI/hw2/hw2/myCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/dairong/IUI/hw2/hw2/myCell.m166"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o hw2/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerac1ec8f92cceb841^a472affb2cceb841^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/dairong/IUI/hw2/hw2/myCell.m0000000000000000^3157"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o hw2/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.dia -c /Users/dairong/IUI/hw2/hw2/myCell.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o36"8D5A7CCA-BBA9-49B9-B97D-03E858CCB2B3-
+b0F8A5234-9F8F-412B-9AD3-8E96D7488E11
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o /Users/dairong/IUI/hw2/myCollectView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416110388.072908
+e416110389.042566
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o
+x/Users/dairong/IUI/hw2/myCollectView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/myCollectView.m
+d/Users/dairong/IUI/hw2/myCollectView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/dairong/IUI/hw2/myCollectView.m176"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o myCollectView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7df123457cdb841^64e60a3557cdb841^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/dairong/IUI/hw2/myCollectView.m0000000000000000^3191"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o myCollectView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.dia -c /Users/dairong/IUI/hw2/myCollectView.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCollectView.o36"2BFFC882-744D-4D53-A887-0A9CFA43B513-
+bC72C8D67-2571-4BB7-A7E5-DA4DDE3F4C77
+
+CCompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o /Users/dairong/IUI/hw2/hw2/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416161715.175355
+e416161720.069790
+r1
+xCompileC
+xbuild/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o
+x/Users/dairong/IUI/hw2/hw2/secondCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/secondCell.m
+d/Users/dairong/IUI/hw2/hw2/secondCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/dairong/IUI/hw2/hw2/secondCell.m174"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o hw2/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler29052db31fceb841^508c6cb81fceb841^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/dairong/IUI/hw2/hw2/secondCell.m0000000000000000^3181"CompileC build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o hw2/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.d --serialize-diagnostics /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.dia -c /Users/dairong/IUI/hw2/hw2/secondCell.m -o /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o36"A5F0231D-49AA-4412-9FF3-AA2EE0549AAD-
+b1319FEF3-E9F1-45D1-AD4C-38BC892BEAF6
+
+CCompileStoryboard /Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard
+s416165629.290195
+e416165648.821335
+r1
+xCompileStoryboard
+x/Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard
+o2014-03-11 01:34:06.016 Interface Builder Cocoa Touch Tool[17340:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-03-11 01:34:08.453 Interface Builder Cocoa Touch Tool[17343:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"CompileStoryboard hw2/Base.lproj/Main.storyboard48"CompileStoryboard hw2/Base.lproj/Main.storyboard17614afd2eceb841^8943d2102fceb841^-464"2014-03-11 01:34:06.016 Interface Builder Cocoa Touch Tool[17340:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-03-11 01:34:08.453 Interface Builder Cocoa Touch Tool[17343:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@60"file:///Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard0000000000000000^770"CompileStoryboard hw2/Base.lproj/Main.storyboard    cd /Users/dairong/IUI/hw2    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Base.lproj/Main.storyboardc /Users/dairong/IUI/hw2/hw2/Base.lproj/Main.storyboard36"38EFD19D-7355-45DC-B213-A0ACC061258B-
+b340EB027-E106-4BFE-B522-57D589B4D217
+
+CCopyStringsFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings hw2/en.lproj/InfoPlist.strings
+s415898859.325955
+e415898859.428219
+r1
+xCopyStringsFile
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings
+xhw2/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy hw2/en.lproj/InfoPlist.strings109"CopyStringsFile build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings hw2/en.lproj/InfoPlist.stringsf8a65deb1ccab841^17a06deb1ccab841^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/dairong/IUI/hw2/hw2/en.lproj/InfoPlist.strings0000000000000000^527"CopyStringsFile build/Debug-iphonesimulator/hw2.app/en.lproj/InfoPlist.strings hw2/en.lproj/InfoPlist.strings    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/en.lproj -- hw2/en.lproj/InfoPlist.strings36"37218666-167E-431A-A83E-BACDE444AF12-
+b7828EAFA-E49F-4583-B27F-435C3504C6E9
+
+CCpResource hw2/image/a1.jpeg build/Debug-iphonesimulator/hw2.app/a1.jpeg
+s416164362.557777
+e416164362.559150
+r1
+xCpResource
+xhw2/image/a1.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/a1.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/a1.jpeg72"CpResource hw2/image/a1.jpeg build/Debug-iphonesimulator/hw2.app/a1.jpeg5ed88e0a2aceb841^4e258f0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a1.jpeg0034e892dfffdf42^510"CpResource hw2/image/a1.jpeg build/Debug-iphonesimulator/hw2.app/a1.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/a1.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"AEB4B417-9863-4744-8A9A-8EB478081226-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/a2.jpg build/Debug-iphonesimulator/hw2.app/a2.jpg
+s416164362.515065
+e416164362.556166
+r1
+xCpResource
+xhw2/image/a2.jpg
+xbuild/Debug-iphonesimulator/hw2.app/a2.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/Debug-iphonesimulator/hw2.app/a2.jpg70"CpResource hw2/image/a2.jpg build/Debug-iphonesimulator/hw2.app/a2.jpge5b68d0a2aceb841^15718e0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a2.jpg0034e892dfffdf42^507"CpResource hw2/image/a2.jpg build/Debug-iphonesimulator/hw2.app/a2.jpg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/a2.jpg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"CCB32CC6-E925-4B54-9F43-5A37D9A127D2-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/a3.jpeg build/Debug-iphonesimulator/hw2.app/a3.jpeg
+s416164362.514838
+e416164362.555869
+r1
+xCpResource
+xhw2/image/a3.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/a3.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/a3.jpeg72"CpResource hw2/image/a3.jpeg build/Debug-iphonesimulator/hw2.app/a3.jpeg46b48d0a2aceb841^b1518e0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/a3.jpeg0034e892dfffdf42^510"CpResource hw2/image/a3.jpeg build/Debug-iphonesimulator/hw2.app/a3.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/a3.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"C9E2D24F-9DCC-4606-B878-AB1EA87C16D8-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/b1.jpeg build/Debug-iphonesimulator/hw2.app/b1.jpeg
+s416164362.556351
+e416164362.558256
+r1
+xCpResource
+xhw2/image/b1.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/b1.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/b1.jpeg72"CpResource hw2/image/b1.jpeg build/Debug-iphonesimulator/hw2.app/b1.jpeg40868e0a2aceb841^dff88e0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b1.jpeg0034e892dfffdf42^510"CpResource hw2/image/b1.jpeg build/Debug-iphonesimulator/hw2.app/b1.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/b1.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"7E061C82-A14C-4306-BC51-8AC4BDB49A77-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/b2.jpeg build/Debug-iphonesimulator/hw2.app/b2.jpeg
+s416164362.558660
+e416164362.559643
+r1
+xCpResource
+xhw2/image/b2.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/b2.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/b2.jpeg72"CpResource hw2/image/b2.jpeg build/Debug-iphonesimulator/hw2.app/b2.jpegd3168f0a2aceb841^6b458f0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b2.jpeg0034e892dfffdf42^510"CpResource hw2/image/b2.jpeg build/Debug-iphonesimulator/hw2.app/b2.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/b2.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"57438E85-20F7-44E9-A444-05D5508BD818-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/b3.jpeg build/Debug-iphonesimulator/hw2.app/b3.jpeg
+s416164362.514511
+e416164362.556158
+r1
+xCpResource
+xhw2/image/b3.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/b3.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/b3.jpeg72"CpResource hw2/image/b3.jpeg build/Debug-iphonesimulator/hw2.app/b3.jpeg52b58d0a2aceb841^f1658e0a2aceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/b3.jpeg0034e892dfffdf42^510"CpResource hw2/image/b3.jpeg build/Debug-iphonesimulator/hw2.app/b3.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/b3.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"D8E74563-D17D-47AA-A911-8679A14FD38F-
+b54D692BD-8017-456D-A817-B80C0543D077
+
+CCpResource hw2/image/c3.jpeg build/Debug-iphonesimulator/hw2.app/c3.jpeg
+s416164699.163251
+e416164699.164588
+r1
+xCpResource
+xhw2/image/c3.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/c3.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/c3.jpeg72"CpResource hw2/image/c3.jpeg build/Debug-iphonesimulator/hw2.app/c3.jpeg8ded295b2bceb841^3a232a5b2bceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/c3.jpeg0000000000000000^510"CpResource hw2/image/c3.jpeg build/Debug-iphonesimulator/hw2.app/c3.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/c3.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"04034A3B-4C38-4199-92EE-A841D507BF99-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCpResource hw2/image/d1.jpeg build/Debug-iphonesimulator/hw2.app/d1.jpeg
+s416164699.160952
+e416164699.162952
+r1
+xCpResource
+xhw2/image/d1.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/d1.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/d1.jpeg72"CpResource hw2/image/d1.jpeg build/Debug-iphonesimulator/hw2.app/d1.jpeg514d295b2bceb841^0ccd295b2bceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/d1.jpeg0000000000000000^510"CpResource hw2/image/d1.jpeg build/Debug-iphonesimulator/hw2.app/d1.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/d1.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"C40A889A-A191-4E86-BE56-81FB1EABC3E9-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCpResource hw2/image/d2.jpeg build/Debug-iphonesimulator/hw2.app/d2.jpeg
+s416164699.162619
+e416164699.163914
+r1
+xCpResource
+xhw2/image/d2.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/d2.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/d2.jpeg72"CpResource hw2/image/d2.jpeg build/Debug-iphonesimulator/hw2.app/d2.jpeg94bd295b2bceb841^cff9295b2bceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/d2.jpeg0000000000000000^510"CpResource hw2/image/d2.jpeg build/Debug-iphonesimulator/hw2.app/d2.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/d2.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"121AE6A9-A60B-480E-8C45-0B49BEBC35C4-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCpResource hw2/image/e2.jpeg build/Debug-iphonesimulator/hw2.app/e2.jpeg
+s416164699.160788
+e416164699.162499
+r1
+xCpResource
+xhw2/image/e2.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/e2.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/e2.jpeg72"CpResource hw2/image/e2.jpeg build/Debug-iphonesimulator/hw2.app/e2.jpeg793c295b2bceb841^40c1295b2bceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/e2.jpeg0034e892dfffdf42^510"CpResource hw2/image/e2.jpeg build/Debug-iphonesimulator/hw2.app/e2.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/e2.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"2216C1CA-DA28-4446-A7B6-524CD613F902-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCpResource hw2/image/e3.jpeg build/Debug-iphonesimulator/hw2.app/e3.jpeg
+s416164699.161364
+e416164699.163042
+r1
+xCpResource
+xhw2/image/e3.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/e3.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/Debug-iphonesimulator/hw2.app/e3.jpeg72"CpResource hw2/image/e3.jpeg build/Debug-iphonesimulator/hw2.app/e3.jpeg2c65295b2bceb841^8bde295b2bceb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/e3.jpeg0034e892dfffdf42^510"CpResource hw2/image/e3.jpeg build/Debug-iphonesimulator/hw2.app/e3.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/e3.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"FE9ED2D5-9560-4E25-AA11-66EF2120B760-
+b91889A30-378C-4980-B805-34FE69B7D00F
+
+CCpResource hw2/image/rank.png build/Debug-iphonesimulator/hw2.app/rank.png
+s416165020.844232
+e416165020.845346
+r1
+xCpResource
+xhw2/image/rank.png
+xbuild/Debug-iphonesimulator/hw2.app/rank.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/Debug-iphonesimulator/hw2.app/rank.png74"CpResource hw2/image/rank.png build/Debug-iphonesimulator/hw2.app/rank.pngf035d89c2cceb841^ba4edb9c2cceb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/rank.png0034e892dfffdf42^513"CpResource hw2/image/rank.png build/Debug-iphonesimulator/hw2.app/rank.png    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/rank.png /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"B6E10F5D-35FB-4985-9ED4-35E29512941B-
+bCA8FCFFA-CF6E-4F5C-9695-D44A259B2354
+
+CCpResource hw2/image/top1.jpeg build/Debug-iphonesimulator/hw2.app/top1.jpeg
+s415913928.617351
+e415913928.631730
+r1
+xCpResource
+xhw2/image/top1.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top1.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top1.jpeg76"CpResource hw2/image/top1.jpeg build/Debug-iphonesimulator/hw2.app/top1.jpega4359ec857cab841^8cbba1c857cab841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top1.jpeg00344066deffdf42^516"CpResource hw2/image/top1.jpeg build/Debug-iphonesimulator/hw2.app/top1.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top1.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"B7C5F016-B6B0-4046-AC15-4CB7DF089807-
+bB47E7177-AC16-47F2-AA88-8045550FF17C
+
+CCpResource hw2/image/top2.jpeg build/Debug-iphonesimulator/hw2.app/top2.jpeg
+s415961021.545589
+e415961021.565179
+r1
+xCpResource
+xhw2/image/top2.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top2.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top2.jpeg76"CpResource hw2/image/top2.jpeg build/Debug-iphonesimulator/hw2.app/top2.jpeg1a5390bd0fcbb841^5bb090bd0fcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top2.jpeg0034e892dfffdf42^516"CpResource hw2/image/top2.jpeg build/Debug-iphonesimulator/hw2.app/top2.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top2.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"9F6107FD-0A25-4CCB-A1DD-FC6990ADE210-
+b16AEF631-D243-48C1-BFFE-77FB20711E31
+
+CCpResource hw2/image/top3.jpeg build/Debug-iphonesimulator/hw2.app/top3.jpeg
+s415963230.472912
+e415963230.478406
+r1
+xCpResource
+xhw2/image/top3.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top3.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top3.jpeg76"CpResource hw2/image/top3.jpeg build/Debug-iphonesimulator/hw2.app/top3.jpeg5322795e18cbb841^357d7a5e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top3.jpeg0034e892dfffdf42^516"CpResource hw2/image/top3.jpeg build/Debug-iphonesimulator/hw2.app/top3.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top3.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"36CA7C6A-8A6A-4063-AD66-FA3178C10154-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/top4.jpeg build/Debug-iphonesimulator/hw2.app/top4.jpeg
+s415963230.472742
+e415963230.478360
+r1
+xCpResource
+xhw2/image/top4.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top4.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top4.jpeg76"CpResource hw2/image/top4.jpeg build/Debug-iphonesimulator/hw2.app/top4.jpega417795e18cbb841^b2837a5e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top4.jpeg0034e892dfffdf42^516"CpResource hw2/image/top4.jpeg build/Debug-iphonesimulator/hw2.app/top4.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top4.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"45A137C9-2CCD-4673-8E9E-BA7E40774D6A-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/top5.jpeg build/Debug-iphonesimulator/hw2.app/top5.jpeg
+s415963230.497359
+e415963230.524946
+r1
+xCpResource
+xhw2/image/top5.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top5.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top5.jpeg76"CpResource hw2/image/top5.jpeg build/Debug-iphonesimulator/hw2.app/top5.jpeg5a687f5e18cbb841^2f6f865e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top5.jpeg0034e892dfffdf42^516"CpResource hw2/image/top5.jpeg build/Debug-iphonesimulator/hw2.app/top5.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top5.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"B2180F3E-DF7B-4ECF-8912-23CE81345E1F-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/top6.jpeg build/Debug-iphonesimulator/hw2.app/top6.jpeg
+s415963230.478714
+e415963230.524813
+r1
+xCpResource
+xhw2/image/top6.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top6.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top6.jpeg76"CpResource hw2/image/top6.jpeg build/Debug-iphonesimulator/hw2.app/top6.jpeg05a37a5e18cbb841^cd5a865e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top6.jpeg0034e892dfffdf42^516"CpResource hw2/image/top6.jpeg build/Debug-iphonesimulator/hw2.app/top6.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top6.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"D28CBB0B-C980-40A5-84CC-08FBCE47380B-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/top7.jpeg build/Debug-iphonesimulator/hw2.app/top7.jpeg
+s415963230.496063
+e415963230.525248
+r1
+xCpResource
+xhw2/image/top7.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top7.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top7.jpeg76"CpResource hw2/image/top7.jpeg build/Debug-iphonesimulator/hw2.app/top7.jpegc6157f5e18cbb841^7576865e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top7.jpeg0034e892dfffdf42^516"CpResource hw2/image/top7.jpeg build/Debug-iphonesimulator/hw2.app/top7.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top7.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"68CA45C6-D3A9-4675-BF0F-8DBAF1231C87-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/top8.jpeg build/Debug-iphonesimulator/hw2.app/top8.jpeg
+s415963230.474137
+e415963230.496164
+r1
+xCpResource
+xhw2/image/top8.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/top8.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/top8.jpeg76"CpResource hw2/image/top8.jpeg build/Debug-iphonesimulator/hw2.app/top8.jpegb071795e18cbb841^c9057f5e18cbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/top8.jpeg0034e892dfffdf42^516"CpResource hw2/image/top8.jpeg build/Debug-iphonesimulator/hw2.app/top8.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/top8.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"E3ED6433-C403-4199-8E86-5E494963C626-
+b456A915F-BF64-48E0-978E-4E1B4E97437D
+
+CCpResource hw2/image/topa.jpeg build/Debug-iphonesimulator/hw2.app/topa.jpeg
+s415964645.331965
+e415964645.358193
+r1
+xCpResource
+xhw2/image/topa.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topa.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topa.jpeg76"CpResource hw2/image/topa.jpeg build/Debug-iphonesimulator/hw2.app/topa.jpegbc0655e51dcbb841^46cd5be51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topa.jpeg0034e892dfffdf42^516"CpResource hw2/image/topa.jpeg build/Debug-iphonesimulator/hw2.app/topa.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topa.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"ADF4EE4A-7705-47E4-8B4B-2E3253E64C0F-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/topb.jpeg build/Debug-iphonesimulator/hw2.app/topb.jpeg
+s415964645.330581
+e415964645.358352
+r1
+xCpResource
+xhw2/image/topb.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topb.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topb.jpeg76"CpResource hw2/image/topb.jpeg build/Debug-iphonesimulator/hw2.app/topb.jpeg42cd54e51dcbb841^bad95be51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topb.jpeg0034e892dfffdf42^516"CpResource hw2/image/topb.jpeg build/Debug-iphonesimulator/hw2.app/topb.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topb.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"F8DF6A4F-8B96-4F34-BACA-DFFFE9452894-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/topc.jpeg build/Debug-iphonesimulator/hw2.app/topc.jpeg
+s415964645.359840
+e415964645.361110
+r1
+xCpResource
+xhw2/image/topc.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topc.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topc.jpeg76"CpResource hw2/image/topc.jpeg build/Debug-iphonesimulator/hw2.app/topc.jpegc1385ce51dcbb841^e7715ce51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topc.jpeg0034e892dfffdf42^516"CpResource hw2/image/topc.jpeg build/Debug-iphonesimulator/hw2.app/topc.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topc.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"1D80BA8F-229B-4709-8D7F-97A5E639B5FC-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/topd.jpeg build/Debug-iphonesimulator/hw2.app/topd.jpeg
+s415964645.331026
+e415964645.358428
+r1
+xCpResource
+xhw2/image/topd.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topd.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topd.jpeg76"CpResource hw2/image/topd.jpeg build/Debug-iphonesimulator/hw2.app/topd.jpegd4d254e51dcbb841^f8e25be51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topd.jpeg0034e892dfffdf42^516"CpResource hw2/image/topd.jpeg build/Debug-iphonesimulator/hw2.app/topd.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topd.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"699A8F11-786B-46EA-BF16-D8E3C7F06541-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/tope.jpeg build/Debug-iphonesimulator/hw2.app/tope.jpeg
+s415964645.358852
+e415964645.360539
+r1
+xCpResource
+xhw2/image/tope.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/tope.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/tope.jpeg76"CpResource hw2/image/tope.jpeg build/Debug-iphonesimulator/hw2.app/tope.jpegc3f25be51dcbb841^124d5ce51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/tope.jpeg0034e892dfffdf42^516"CpResource hw2/image/tope.jpeg build/Debug-iphonesimulator/hw2.app/tope.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/tope.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"F1A15020-704B-4610-9898-3DF246467469-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/topf.jpeg build/Debug-iphonesimulator/hw2.app/topf.jpeg
+s415964645.360038
+e415964645.361343
+r1
+xCpResource
+xhw2/image/topf.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topf.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topf.jpeg76"CpResource hw2/image/topf.jpeg build/Debug-iphonesimulator/hw2.app/topf.jpeg61525ce51dcbb841^b2815ce51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topf.jpeg0034e892dfffdf42^516"CpResource hw2/image/topf.jpeg build/Debug-iphonesimulator/hw2.app/topf.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topf.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"D7659B8B-81B6-4F86-8CF1-039807479C90-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/topg.jpeg build/Debug-iphonesimulator/hw2.app/topg.jpeg
+s415964645.358488
+e415964645.360255
+r1
+xCpResource
+xhw2/image/topg.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/topg.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/topg.jpeg76"CpResource hw2/image/topg.jpeg build/Debug-iphonesimulator/hw2.app/topg.jpeg0cea5be51dcbb841^753a5ce51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/topg.jpeg0034e892dfffdf42^516"CpResource hw2/image/topg.jpeg build/Debug-iphonesimulator/hw2.app/topg.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/topg.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"C0427D80-F214-492A-89FE-55057F6D8404-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CCpResource hw2/image/toph.jpeg build/Debug-iphonesimulator/hw2.app/toph.jpeg
+s415964645.330831
+e415964645.358169
+r1
+xCpResource
+xhw2/image/toph.jpeg
+xbuild/Debug-iphonesimulator/hw2.app/toph.jpeg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/hw2.app/toph.jpeg76"CpResource hw2/image/toph.jpeg build/Debug-iphonesimulator/hw2.app/toph.jpegc4ce54e51dcbb841^a7b35be51dcbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/toph.jpeg0034e892dfffdf42^516"CpResource hw2/image/toph.jpeg build/Debug-iphonesimulator/hw2.app/toph.jpeg    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dairong/IUI/hw2/hw2/image/toph.jpeg /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"984BBEC1-A29A-467D-9D5C-0529DB3848FB-
+b0D9E2A75-B7DB-4AC7-8408-5F95CAFF74AB
+
+CGenerateDSYMFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2
+s416166632.395722
+e416166632.684519
+r1
+xGenerateDSYMFile
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Generate /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM97"GenerateDSYMFile build/Debug-iphonesimulator/hw2.app.dSYM build/Debug-iphonesimulator/hw2.app/hw25c5a65e832ceb841^8f35afe832ceb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM/0000000000000000^553"GenerateDSYMFile build/Debug-iphonesimulator/hw2.app.dSYM build/Debug-iphonesimulator/hw2.app/hw2    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2 -o /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app.dSYM36"FE955F2A-E367-48F6-9E4A-376E22B228CE-
+b1BC79302-952C-4CB2-A90F-31A95F5C7DB3
+
+CLd /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2 normal i386
+s416165115.709143
+e416165116.124300
+r1
+xLd
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw2
+xnormal
+xi386
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/hw2.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionView.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailViewController.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/ViewController.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/myCell.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/DetailtwoViewController.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/secondCell.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/CollectionViewCell.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/AppDelegate.o
+d/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Link /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw254"Ld build/Debug-iphonesimulator/hw2.app/hw2 normal i386139db5fb2cceb841^4ed31ffc2cceb841^---0#0#1#--1189"Ld build/Debug-iphonesimulator/hw2.app/hw2 normal i386    cd /Users/dairong/IUI/hw2    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator -filelist /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/hw2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/Objects-normal/i386/hw2_dependency_info.dat -o /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/hw236"3484869B-B85D-4D1E-A7E4-0B81C10306B6-
+b0F8A5234-9F8F-412B-9AD3-8E96D7488E11
+
+CProcessInfoPlistFile /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Info.plist /Users/dairong/IUI/hw2/hw2/hw2-Info.plist
+s416166632.382925
+e416166632.395184
+r1
+xProcessInfoPlistFile
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Info.plist
+x/Users/dairong/IUI/hw2/hw2/hw2-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Process /Users/dairong/IUI/hw2/hw2/hw2-Info.plist86"ProcessInfoPlistFile build/Debug-iphonesimulator/hw2.app/Info.plist hw2/hw2-Info.plist441562e832ceb841^6f2b65e832ceb841^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/dairong/IUI/hw2/hw2/hw2-Info.plist0000000000000000^725"ProcessInfoPlistFile build/Debug-iphonesimulator/hw2.app/Info.plist hw2/hw2-Info.plist    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/dairong/IUI/hw2/hw2/hw2-Info.plist -genpkginfo /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/assetcatalog_generated_info.plist -o /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app/Info.plist36"AFA25D0F-AE74-477D-B53D-8CF62CCF6E3C-
+b1BC79302-952C-4CB2-A90F-31A95F5C7DB3
+
+CProcessPCH /Users/dairong/IUI/hw2/DerivedData/hw2/Index/PrecompiledHeaders/hw2-Prefix-awxiaxqbgmhbtmdiyfmrkdpofoua_ast/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dairong/IUI/hw2/DerivedData/hw2/Index/PrecompiledHeaders/hw2-Prefix-elgehpboxddhmkdnwxtitjrefxwk_ast/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415898850.680739
+e415898856.395091
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch
+xhw2/hw2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile hw2/hw2-Prefix.pch274"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c3bb0e21ccab841^a62665e81ccab841^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch0000000000000000^3323"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.d -c /Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-asqmajeuzqlkwgbdizklwebcrfyc/hw2-Prefix.pch.pch36"2A90E724-AFE6-4120-A744-AEDCCB82C26A-
+b7828EAFA-E49F-4583-B27F-435C3504C6E9
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415957627.391372
+e415957629.644796
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch
+xhw2/hw2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile hw2/hw2-Prefix.pch274"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b66647b02cbb841^5a11a57d02cbb841^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch0000000000000000^3323"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch hw2/hw2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/hw2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/hw2/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-generated-files.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-own-target-headers.hmap -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-all-target-headers.hmap -iquote /Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/hw2-project-headers.hmap -I/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources/i386 -I/Users/dairong/IUI/hw2/build/hw2.build/Debug-iphonesimulator/hw2.build/DerivedSources -F/Users/dairong/IUI/hw2/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.d -c /Users/dairong/IUI/hw2/hw2/hw2-Prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/hw2-Prefix-bgnrsxtiijdusbekyyrizrdajobj/hw2-Prefix.pch.pch36"38132A3F-AFF0-4025-A4A4-B4596AB59C8F-
+bEB016C9D-7566-47DC-9D3A-481C3B22EE45
+
+CTouch /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app
+s416166632.685164
+e416166632.756065
+r1
+xTouch
+x/Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Touch /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app41"Touch build/Debug-iphonesimulator/hw2.appb472afe832ceb841^1d8fc1e832ceb841^---0#0#1#--348"Touch build/Debug-iphonesimulator/hw2.app    cd /Users/dairong/IUI/hw2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dairong/IUI/hw2/build/Debug-iphonesimulator/hw2.app36"A6A851FE-E0E1-47F4-8504-15EAD8106266-
+b1BC79302-952C-4CB2-A90F-31A95F5C7DB3
+
