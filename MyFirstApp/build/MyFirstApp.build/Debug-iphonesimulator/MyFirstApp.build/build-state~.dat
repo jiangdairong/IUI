@@ -1,0 +1,481 @@
+TMyFirstApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch MyFirstApp/MyFirstApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386
+cCopyStringsFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
+cCompileAssetCatalog /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app /Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets
+cProcessInfoPlistFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
+cGenerateDSYMFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
+cTouch /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005321D73800000000000003B4
+t1394726712
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005321D755000000000000019E
+t1394726741
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005321D75C0000000000446820
+t1394726748
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005321D760000000000088D8C0
+t1394726752
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005321D7740000000001F1DE10
+t1394726772
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005321D7A90000000000000ADC
+t1394726825
+s2780
+
+N/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/FacebookSDK
+c00000000530C299600000000008796FC
+t1393306006
+s8886012
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m
+c00000000533B937B00000000000009DA
+t1396413307
+s2522
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets
+c00000000533B787B0000000000000088
+t1396406395
+s136
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
+c00000000533B937B0000000000001462
+t1396413307
+s5218
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
+c00000000533B912B00000000000005DB
+t1396412715
+s1499
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Prefix.pch
+c00000000533B787B0000000000000158
+t1396406395
+s344
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
+c00000000533B8B210000000000000CF2
+t1396411169
+s3314
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/en.lproj/InfoPlist.strings
+c00000000533B787B000000000000002D
+t1396406395
+s45
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m
+c00000000533B787B0000000000000150
+t1396406395
+s336
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
+t1396414317
+s306
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM
+t2
+s0
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist
+t1396414317
+s1169
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Main.storyboardc
+t1396414317
+s170
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
+t1396414302
+s605568
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/PkgInfo
+t1396414317
+s8
+
+N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings
+t1396414302
+s42
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o
+t1396414301
+s64260
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList
+c00000000533B975B0000000000000176
+t1396414299
+s374
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o
+t1396414301
+s58052
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o
+t1396414300
+s3584
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_dependencies.txt
+t1396414314
+s327
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_generated_info.plist
+t1396414314
+s525
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch
+t1396414300
+s121552
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdf37bedbceebb841^1a8ac7dbceebb841^---0#1#1#--18"Check dependencies36"C69E5BDA-44B3-487D-B5A6-1DE88CA4880F-
+
+CCompileAssetCatalog /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app /Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets
+s418107102.349626
+e418107114.553683
+r1
+xCompileAssetCatalog
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets
+o2014-04-02 12:51:53.514 IBCocoaTouchImageCatalogTool[10248:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/LaunchImage-700-568h@2x.png
+o/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car
+o/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstApp.app MyFirstApp/Images.xcassets89"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstApp.app MyFirstApp/Images.xcassetsac9159deceebb841^a1be8deaceebb841^-581"2014-04-02 12:51:53.514 IBCocoaTouchImageCatalogTool[10248:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/LaunchImage-700-568h@2x.png/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets/0000000000000000^1071"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstApp.app MyFirstApp/Images.xcassets    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app /Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets36"93350B1E-2D90-43A4-9D80-195ACAB24A95-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418107100.476006
+e418107101.049868
+r1
+xCompileC
+xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m197"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o MyFirstApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd057adcceebb841^7ac40cddceebb841^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m0000000000000000^3530"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o MyFirstApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o36"CE8A26C1-FF32-4F5C-B3DE-8B4F1FE3AFF9-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418107100.475538
+e418107101.052639
+r1
+xCompileC
+xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m203"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93e079dcceebb841^c87b0dddceebb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^3548"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o36"99F86DAC-AC8C-4FAC-94DD-9808234FA363-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418107100.476463
+e418107100.937575
+r1
+xCompileC
+xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/AppDelegate.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m183"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f1f7adcceebb841^b405f0dcceebb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m0000000000000000^3488"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o36"B40B86B0-14CC-42F1-B48D-0DCE849DB80E-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CCompileStoryboard /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
+s418107102.348912
+e418107117.837486
+r1
+xCompileStoryboard
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
+o2014-04-02 12:51:55.319 Interface Builder Cocoa Touch Tool[10249:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CompileStoryboard MyFirstApp/Main.storyboard44"CompileStoryboard MyFirstApp/Main.storyboard386659deceebb841^e677d6edceebb841^-232"2014-04-02 12:51:55.319 Interface Builder Cocoa Touch Tool[10249:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard0000000000000000^779"CompileStoryboard MyFirstApp/Main.storyboard    cd /Users/dairong/IUI/MyFirstApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Main.storyboardc /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard36"80816A99-D7BE-4E3B-BDE3-64FA5289461F-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CCopyStringsFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings
+s418107102.348677
+e418107102.400955
+r1
+xCopyStringsFile
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings
+xMyFirstApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy MyFirstApp/en.lproj/InfoPlist.strings123"CopyStringsFile build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings4c5259deceebb841^077c66deceebb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/en.lproj/InfoPlist.strings0000000000000000^569"CopyStringsFile build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj -- MyFirstApp/en.lproj/InfoPlist.strings36"CE762431-1B26-40AB-9B59-C7B63A6AE44E-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CGenerateDSYMFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
+s418107117.991058
+e418107119.033473
+r1
+xGenerateDSYMFile
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Generate /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM118"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp69c3fdedceebb841^a39008efceebb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM003444a9ddffdf42^616"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM36"E2DBF08F-E5C4-40CE-8695-EC800C9296CE-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CLd /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386
+s418107101.053377
+e418107102.347789
+r1
+xLd
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
+xnormal
+xi386
+d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o
+d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/FacebookSDK
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp68"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i3861fb90dddceebb841^200b59deceebb841^---0#0#1#--1363"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386    cd /Users/dairong/IUI/MyFirstApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -filelist /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp_dependency_info.dat -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp36"DFF5243C-DD48-4EF1-BE67-2C89283FAB30-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CProcessInfoPlistFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
+s418107117.880582
+e418107117.990551
+r1
+xProcessInfoPlistFile
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Process /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist107"ProcessInfoPlistFile build/Debug-iphonesimulator/MyFirstApp.app/Info.plist MyFirstApp/MyFirstApp-Info.plist5b7de1edceebb841^9a95fdedceebb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist0000000000000000^823"ProcessInfoPlistFile build/Debug-iphonesimulator/MyFirstApp.app/Info.plist MyFirstApp/MyFirstApp-Info.plist    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist -genpkginfo /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/assetcatalog_generated_info.plist -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist36"03B009A8-7056-43FC-A0A4-EA730DE11851-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/MyFirstApp-Prefix-gtxmwrylwaqsinbximgmcgpwndxl_ast/MyFirstApp-Prefix.pch.pch MyFirstApp/MyFirstApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch MyFirstApp/MyFirstApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418107099.780321
+e418107100.474781
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch
+xMyFirstApp/MyFirstApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile MyFirstApp/MyFirstApp-Prefix.pch300"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch MyFirstApp/MyFirstApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler23d9c7dbceebb841^828b79dcceebb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Prefix.pch0000000000000000^3639"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch MyFirstApp/MyFirstApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-elrtaodakcvjplerujertkgnqjiz/MyFirstApp-Prefix.pch.pch36"B620CFA5-A7B1-447E-B2CF-A70B3016A906-
+bF8A8DF27-AD99-425D-8822-EBEEC877EA67
+
+CTouch /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
+r0
+

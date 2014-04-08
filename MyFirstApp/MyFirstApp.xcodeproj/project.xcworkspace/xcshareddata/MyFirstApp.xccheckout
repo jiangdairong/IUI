@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36E6AB62-6C4B-4528-BD8D-6FC4148082A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3FFEE2F6-A105-4A51-A15C-C51E2C12C6E1</key>
+		<string>https://github.com/jiangdairong/IUI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFirstApp/MyFirstApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3FFEE2F6-A105-4A51-A15C-C51E2C12C6E1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jiangdairong/IUI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3FFEE2F6-A105-4A51-A15C-C51E2C12C6E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3FFEE2F6-A105-4A51-A15C-C51E2C12C6E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IUI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
