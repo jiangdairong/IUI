@@ -35,4 +35,5 @@ dependencies: /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m \
   /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h \
   /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h \
   /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h \
-  /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+  /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h \
+  /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.h

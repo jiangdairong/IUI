@@ -1,0 +1,226 @@
+TPods-Reachability
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o /Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-Reachability.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005321D6E20000000000A90C10
+t1394726626
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005321D6F700000000001A2B00
+t1394726647
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005321D73800000000000003B4
+t1394726712
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005321D755000000000000019E
+t1394726741
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005321D7A90000000000000ADC
+t1394726825
+s2780
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m
+c0000000053450936000000000000008A
+t1397033270
+s138
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch
+c0000000053450936000000000000004D
+t1397033270
+s77
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+c0000000053450936000000000000096A
+t1397033270
+s2410
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.h
+c00000000534504850000000000000E57
+t1397032069
+s3671
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m
+c00000000534504850000000000003737
+t1397032069
+s14135
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-Reachability.a
+t1397033298
+s45552
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o
+t1397033298
+s3416
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability.LinkFileList
+c00000000534504E20000000000000115
+t1397032162
+s277
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o
+t1397033298
+s41328
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch
+t1397032164
+s121104
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch
+t1397033297
+s125472
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch
+t1397033297
+s126468
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch
+t1397032164
+s117020
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb9c124f440f5b841^e0f32ff440f5b841^---0#1#1#--18"Check dependencies36"A83F80ED-83AC-4CA5-978B-90BEC722B8E4-
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418726097.937148
+e418726098.467358
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o
+x/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m211"CompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o Pods-Reachability-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8508f0d140f5b841^09a577d240f5b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m0000000000000000^3780"CompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o Pods-Reachability-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.dia -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-dummy.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability-dummy.o36"ABFDEF4F-B415-43BF-8213-48C0ACA614BE-
+bEB841E67-01D3-4706-B001-1A209019C2A6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o /Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418726097.937597
+e418726098.956287
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o
+x/Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m
+d/Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m202"CompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler861ff0d140f5b841^20d1f4d240f5b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m0000000000000000^3774"CompileC build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.dia -c /Users/dairong/IUI/MyFirstApp/Pods/Reachability/Reachability.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Reachability.o36"DB8EEDF2-439D-4B2C-B4BE-FB1A28043C5D-
+bEB841E67-01D3-4706-B001-1A209019C2A6
+
+CLibtool /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-Reachability.a normal i386
+s418726098.957236
+e418726098.992820
+r1
+xLibtool
+x/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-Reachability.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Debug-iphonesimulator/libPods-Reachability.a normal i38670"Libtool build/Debug-iphonesimulator/libPods-Reachability.a normal i386f71ff5d240f5b841^a22afed240f5b841^---0#0#1#--967"Libtool build/Debug-iphonesimulator/libPods-Reachability.a normal i386    cd /Users/dairong/IUI/MyFirstApp/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -filelist /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Objects-normal/i386/Pods-Reachability.LinkFileList -framework Foundation -framework SystemConfiguration -o /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-Reachability.a36"00484BBA-0313-4BB9-A8E4-CB004EBE74A3-
+bEB841E67-01D3-4706-B001-1A209019C2A6
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-Reachability-prefix-bmryeaoyuudhpdczmhftxqdfnuau_ast/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-Reachability-prefix-bsihnglbiexnmrcctqwofviylbdb_ast/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-Reachability-prefix-exvnngceopopdjdakkgrgwgdwjxd_ast/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-Reachability-prefix-fzahgcchqxhheaetkkmcksuoumjw_ast/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418724962.316659
+e418724964.636617
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch
+xPods-Reachability-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-Reachability-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler273051623cf5b841^f4fba2643cf5b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch0000000000000000^3796"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-amxmrvkdscrbxxdhcpmacjhtvnsm/Pods-Reachability-prefix.pch.pch36"98373BC4-15F9-459F-9D9F-AE73AA493FB8-
+b810FCDF0-4B08-48AA-8703-94930A071017
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418726095.205955
+e418726097.906773
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch
+xPods-Reachability-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-Reachability-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraed334cf40f5b841^bc22e8d140f5b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch0000000000000000^3854"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-fkcsqataepogvbaxfwtkczzoxtzt/Pods-Reachability-prefix.pch.pch36"8D85E9C6-A941-4093-AC13-116E37856449-
+bEB841E67-01D3-4706-B001-1A209019C2A6
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418726095.206511
+e418726097.936420
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch
+xPods-Reachability-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-Reachability-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf0fa34cf40f5b841^d0b9efd140f5b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch0000000000000000^3888"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-glyichohgyvuzudhhqkoyyhecvjb/Pods-Reachability-prefix.pch.pch36"351C6F0F-54E1-49E7-BBB6-ADE549C3F9D4-
+bEB841E67-01D3-4706-B001-1A209019C2A6
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418724962.318559
+e418724964.499159
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch
+xPods-Reachability-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-Reachability-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ab051623cf5b841^60c77f643cf5b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch0000000000000000^3830"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch Pods-Reachability-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/Pods-Reachability-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-Reachability.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-Reachability-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Reachability-prefix-gnpqslbpguegpbecuxvtatmmpmno/Pods-Reachability-prefix.pch.pch36"AB65C175-8FA4-4A0E-B6E9-15D69914164D-
+b810FCDF0-4B08-48AA-8703-94930A071017
+

@@ -16,4 +16,5 @@
 @property (strong, nonatomic) IBOutlet UILabel *statusLabel;
 @property (strong, nonatomic) IBOutlet UILabel *genderLabel;
 @property (strong, nonatomic) IBOutlet UIButton *StatusUpdateWithShareDialogButton;
+@property(strong,nonatomic) NSArray *List;
 @end

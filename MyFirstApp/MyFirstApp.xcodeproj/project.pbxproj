@@ -7,12 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D06D866218F4522800AEE092 /* ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D865F18F4522800AEE092 /* ECSlidingViewController.m */; };
-		D06D866318F4522800AEE092 /* UIImage+ImageWithUIView.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D866118F4522800AEE092 /* UIImage+ImageWithUIView.m */; };
-		D06D866618F4528200AEE092 /* initViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D866518F4528200AEE092 /* initViewController.m */; };
-		D06D866918F452E200AEE092 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D866818F452E200AEE092 /* MenuViewController.m */; };
-		D06D866C18F4532A00AEE092 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D866B18F4532A00AEE092 /* MainViewController.m */; };
-		D06D866F18F4534900AEE092 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D06D866E18F4534900AEE092 /* SecondViewController.m */; };
+		D018A73D18F4F9B8001C5D89 /* listViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D018A73C18F4F9B8001C5D89 /* listViewController.m */; };
 		D0B9F88A18EBAFFB00EE315B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88918EBAFFB00EE315B /* Foundation.framework */; };
 		D0B9F88C18EBAFFB00EE315B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88B18EBAFFB00EE315B /* CoreGraphics.framework */; };
 		D0B9F88E18EBAFFB00EE315B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88D18EBAFFB00EE315B /* UIKit.framework */; };
@@ -41,18 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D06D865E18F4522800AEE092 /* ECSlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingViewController.h; sourceTree = "<group>"; };
-		D06D865F18F4522800AEE092 /* ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingViewController.m; sourceTree = "<group>"; };
-		D06D866018F4522800AEE092 /* UIImage+ImageWithUIView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageWithUIView.h"; sourceTree = "<group>"; };
-		D06D866118F4522800AEE092 /* UIImage+ImageWithUIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageWithUIView.m"; sourceTree = "<group>"; };
-		D06D866418F4528200AEE092 /* initViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = initViewController.h; sourceTree = "<group>"; };
-		D06D866518F4528200AEE092 /* initViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = initViewController.m; sourceTree = "<group>"; };
-		D06D866718F452E200AEE092 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
-		D06D866818F452E200AEE092 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
-		D06D866A18F4532A00AEE092 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
-		D06D866B18F4532A00AEE092 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		D06D866D18F4534900AEE092 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		D06D866E18F4534900AEE092 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		222FE916C74B45378EE6A51C /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		D018A73B18F4F9B8001C5D89 /* listViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = listViewController.h; sourceTree = "<group>"; };
+		D018A73C18F4F9B8001C5D89 /* listViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = listViewController.m; sourceTree = "<group>"; };
 		D0B9F88618EBAFFB00EE315B /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0B9F88918EBAFFB00EE315B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D0B9F88B18EBAFFB00EE315B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -100,18 +86,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D06D865D18F4522800AEE092 /* ECSlidingViewController */ = {
-			isa = PBXGroup;
-			children = (
-				D06D865E18F4522800AEE092 /* ECSlidingViewController.h */,
-				D06D865F18F4522800AEE092 /* ECSlidingViewController.m */,
-				D06D866018F4522800AEE092 /* UIImage+ImageWithUIView.h */,
-				D06D866118F4522800AEE092 /* UIImage+ImageWithUIView.m */,
-			);
-			name = ECSlidingViewController;
-			path = ../../../Downloads/ECSlidingViewController;
-			sourceTree = "<group>";
-		};
 		D0B9F87D18EBAFFB00EE315B = {
 			isa = PBXGroup;
 			children = (
@@ -119,6 +93,7 @@
 				D0B9F8AE18EBAFFB00EE315B /* MyFirstAppTests */,
 				D0B9F88818EBAFFB00EE315B /* Frameworks */,
 				D0B9F88718EBAFFB00EE315B /* Products */,
+				222FE916C74B45378EE6A51C /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -146,20 +121,13 @@
 		D0B9F88F18EBAFFB00EE315B /* MyFirstApp */ = {
 			isa = PBXGroup;
 			children = (
-				D06D865D18F4522800AEE092 /* ECSlidingViewController */,
 				D0B9F89818EBAFFB00EE315B /* AppDelegate.h */,
 				D0B9F89918EBAFFB00EE315B /* AppDelegate.m */,
 				D0B9F8C818EBBEC000EE315B /* Main.storyboard */,
 				D0B9F89E18EBAFFB00EE315B /* ViewController.h */,
 				D0B9F89F18EBAFFB00EE315B /* ViewController.m */,
-				D06D866418F4528200AEE092 /* initViewController.h */,
-				D06D866518F4528200AEE092 /* initViewController.m */,
-				D06D866718F452E200AEE092 /* MenuViewController.h */,
-				D06D866818F452E200AEE092 /* MenuViewController.m */,
-				D06D866A18F4532A00AEE092 /* MainViewController.h */,
-				D06D866B18F4532A00AEE092 /* MainViewController.m */,
-				D06D866D18F4534900AEE092 /* SecondViewController.h */,
-				D06D866E18F4534900AEE092 /* SecondViewController.m */,
+				D018A73B18F4F9B8001C5D89 /* listViewController.h */,
+				D018A73C18F4F9B8001C5D89 /* listViewController.m */,
 				D0B9F8A118EBAFFB00EE315B /* Images.xcassets */,
 				D0B9F89018EBAFFB00EE315B /* Supporting Files */,
 			);
@@ -202,9 +170,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D0B9F8B818EBAFFB00EE315B /* Build configuration list for PBXNativeTarget "MyFirstApp" */;
 			buildPhases = (
+				2ACC8BE745B84E71B530F11F /* Check Pods Manifest.lock */,
 				D0B9F88218EBAFFB00EE315B /* Sources */,
 				D0B9F88318EBAFFB00EE315B /* Frameworks */,
 				D0B9F88418EBAFFB00EE315B /* Resources */,
+				9997F76AEE3E4BE9AA123198 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -287,19 +257,47 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2ACC8BE745B84E71B530F11F /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		9997F76AEE3E4BE9AA123198 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D0B9F88218EBAFFB00EE315B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D06D866F18F4534900AEE092 /* SecondViewController.m in Sources */,
-				D06D866318F4522800AEE092 /* UIImage+ImageWithUIView.m in Sources */,
 				D0B9F8A018EBAFFB00EE315B /* ViewController.m in Sources */,
-				D06D866218F4522800AEE092 /* ECSlidingViewController.m in Sources */,
-				D06D866C18F4532A00AEE092 /* MainViewController.m in Sources */,
 				D0B9F89A18EBAFFB00EE315B /* AppDelegate.m in Sources */,
-				D06D866918F452E200AEE092 /* MenuViewController.m in Sources */,
-				D06D866618F4528200AEE092 /* initViewController.m in Sources */,
+				D018A73D18F4F9B8001C5D89 /* listViewController.m in Sources */,
 				D0B9F89618EBAFFB00EE315B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +412,7 @@
 		};
 		D0B9F8B918EBAFFB00EE315B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 222FE916C74B45378EE6A51C /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -431,6 +430,7 @@
 		};
 		D0B9F8BA18EBAFFB00EE315B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 222FE916C74B45378EE6A51C /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
