@@ -1,0 +1,806 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005321D6DE00000000004D7BC0
+t1394726622
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005321D6E20000000000A90C10
+t1394726626
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005321D6E60000000000210E90
+t1394726630
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005321D6F60000000000186D60
+t1394726646
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005321D6F700000000001A2B00
+t1394726647
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005321D73800000000000003B4
+t1394726712
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005321D755000000000000019E
+t1394726741
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005321D7A90000000000000ADC
+t1394726825
+s2780
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c00000000534509350000000000001192
+t1397033269
+s4498
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c00000000534509350000000000001CFD
+t1397033269
+s7421
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c000000005345093500000000000048F0
+t1397033269
+s18672
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000053450935000000000000291C
+t1397033269
+s10524
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c000000005345093500000000000038E4
+t1397033269
+s14564
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c00000000534509350000000000003019
+t1397033269
+s12313
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c00000000534509350000000000001D1F
+t1397033269
+s7455
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c00000000534509350000000000002520
+t1397033269
+s9504
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c0000000053450935000000000000141B
+t1397033269
+s5147
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c00000000534509350000000000002A47
+t1397033269
+s10823
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c00000000534509350000000000004621
+t1397033269
+s17953
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c000000005345093500000000000068B9
+t1397033269
+s26809
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c00000000534509350000000000005009
+t1397033269
+s20489
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000053450935000000000000B7BC
+t1397033269
+s47036
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c000000005345093500000000000027A4
+t1397033269
+s10148
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c00000000534509350000000000005DA7
+t1397033269
+s23975
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c00000000534509350000000000006DC8
+t1397033269
+s28104
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000053450935000000000000A00A
+t1397033269
+s40970
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+c00000000534509350000000000000EC1
+t1397033269
+s3777
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c0000000053450935000000000000190C
+t1397033269
+s6412
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+c000000005345093500000000000009C9
+t1397033269
+s2505
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c00000000534509350000000000000F19
+t1397033269
+s3865
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+c0000000053450935000000000000143A
+t1397033269
+s5178
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c00000000534509350000000000001642
+t1397033269
+s5698
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+c00000000534509350000000000001F95
+t1397033269
+s8085
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c00000000534509350000000000001D5B
+t1397033269
+s7515
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+c00000000534509350000000000001C53
+t1397033269
+s7251
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c00000000534509350000000000001D77
+t1397033269
+s7543
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+c00000000534509350000000000000D89
+t1397033269
+s3465
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c00000000534509350000000000001EDC
+t1397033269
+s7900
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+c000000005345093500000000000009BC
+t1397033269
+s2492
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c00000000534509350000000000000EFC
+t1397033269
+s3836
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+c00000000534509350000000000001734
+t1397033269
+s5940
+
+N/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c00000000534509350000000000001927
+t1397033269
+s6439
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m
+c000000005346354C000000000000008A
+t1397110092
+s138
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch
+c000000005346354C0000000000000053
+t1397110092
+s83
+
+N/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+c000000005346354C000000000000096A
+t1397110092
+s2410
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-AFNetworking.a
+t1397110140
+s1425176
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1397110137
+s44688
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+t1397110137
+s54388
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+t1397110138
+s66340
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+t1397110139
+s33372
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+t1397110139
+s44068
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+t1397110139
+s43824
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1397110140
+s197492
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+t1397110139
+s222020
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+t1397110139
+s89536
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+t1397110139
+s194836
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+t1397110139
+s3416
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList
+c0000000053451B4E0000000000000A42
+t1397037902
+s2626
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+t1397110140
+s50392
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+t1397110140
+s27644
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+t1397110140
+s76536
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1397110140
+s72080
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+t1397110140
+s68148
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+t1397110140
+s51764
+
+N/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+t1397110140
+s68072
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch
+t1397110132
+s125472
+
+N/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch
+t1397110132
+s125904
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0ef8e80a74f6b841^a6452d0b74f6b841^---0#1#1#--18"Check dependencies36"68D0E771-5A1D-418C-AFC1-4C120A3E939A-
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802933.868533
+e418802938.021431
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m235"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfc72def56cf6b841^817c05fa6cf6b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^3837"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o36"B2C0EB8F-9A4D-4F72-AF35-8965D970F3C5-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802933.868895
+e418802938.024418
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m249"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0394def56cf6b841^424006fa6cf6b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^3879"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o36"9F4DAD52-ADBA-4598-8C33-438A2C9B6ECB-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802938.021763
+e418802938.943944
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m231"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37a805fa6cf6b841^37de01fb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^3825"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o36"458C9665-99B2-46BD-98B9-5506E28E6F43-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802938.024862
+e418802939.120895
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m263"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c7c06fa6cf6b841^e0f41efb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^3915"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o36"5B6236AB-3A8B-43FE-8575-9DE8CD6465D0-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802938.379616
+e418802939.123913
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m247"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7e5261fa6cf6b841^30bb1ffb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^3873"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o36"B5AEF451-9DBB-4EA0-8A25-0AD025C4871C-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802938.432661
+e418802939.127777
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m223"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd8f26efa6cf6b841^7c2821fb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^3801"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o36"932FF136-F113-4370-8C29-0E63A0C83796-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802938.944308
+e418802940.274678
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m239"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler67d7f1fa6cf6b841^0e6746fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^3849"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o36"71F3B683-D50F-42F0-B8B1-449D60FCA58D-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.128250
+e418802939.732283
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m241"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0ef420fb6cf6b841^e676bbfb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^3855"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o36"084B24B0-1965-439D-820F-325D404432F9-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.350064
+e418802939.884032
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m243"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera5d859fb6cf6b841^1153e2fb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^3861"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o36"E3FA951A-E0FB-4D38-92E5-1B778FB4A930-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.350483
+e418802939.797220
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m229"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerecfa59fb6cf6b841^1616ccfb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^3819"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o36"CD223777-85D2-4053-B57E-856592F49986-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.732564
+e418802939.946516
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+x/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m211"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1a9bbfb6cf6b841^be4ef2fb6cf6b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m0000000000000000^3780"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.dia -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-dummy.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o36"C2C5CCC9-4C58-43F3-B52E-9CCB63CC2582-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.797816
+e418802940.102831
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m269"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerda59ccfb6cf6b841^d95b1afc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^3933"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o36"827EC766-8F14-4276-A5E2-3535C4A099A2-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.884389
+e418802940.099861
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m245"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c84e2fb6cf6b841^6d9019fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^3861"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o36"95A8B5A1-5CEC-4336-A12D-F4AFAFC7994E-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802939.946986
+e418802940.217637
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m239"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a94f2fb6cf6b841^41b737fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^3843"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o36"43EC01CE-169E-4249-ACAA-E20CF2E0015B-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802940.100235
+e418802940.268785
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m245"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler29ce19fc6cf6b841^bbd044fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^3861"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o36"426A26C0-95B8-4EF6-8534-CFAA5DEC9D1C-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802940.103142
+e418802940.311894
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m251"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7f871afc6cf6b841^fdd94ffc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^3879"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o36"6045F10B-280E-4889-8FD3-885C44AAD202-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802940.217971
+e418802940.333125
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m255"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4ee37fc6cf6b841^f14755fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^3891"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o36"82B737A9-F30E-4ACD-8694-09ED876C72A2-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CCompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802940.269079
+e418802940.389076
+r1
+xCompileC
+xbuild/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+x/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m241"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler51f844fc6cf6b841^bb9b63fc6cf6b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^3849"CompileC build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.dia -c /Users/dairong/IUI/MyFirstApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o36"5F2561A1-2472-40EB-890A-AC8D7AD2773C-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CLibtool /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+s418802940.390439
+e418802940.414138
+r1
+xLibtool
+x/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-AFNetworking.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Debug-iphonesimulator/libPods-AFNetworking.a normal i38670"Libtool build/Debug-iphonesimulator/libPods-AFNetworking.a normal i386e70164fc6cf6b841^5f076afc6cf6b841^---0#0#1#--1041"Libtool build/Debug-iphonesimulator/libPods-AFNetworking.a normal i386    cd /Users/dairong/IUI/MyFirstApp/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -filelist /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods-AFNetworking.a36"FC52A92F-9C68-460C-92D3-4D167084B425-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-apeiqtdinvjsnygbeaqmdfjtorcn_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dairong/IUI/MyFirstApp/DerivedData/MyFirstApp/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-egwrksygzdhmknfherhyhaaayvpx_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802932.101128
+e418802932.439532
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler18081af46cf6b841^a48870f46cf6b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3854"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-byboijoralyqfvhbuigepreaxqlo/Pods-AFNetworking-prefix.pch.pch36"4D808B13-1676-450F-BD25-4E08AA52A50E-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+
+CProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418802925.006068
+e418802932.589882
+r1
+xProcessPCH
+x/var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch
+d/Users/dairong/IUI/MyFirstApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch310"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerffb001ed6cf6b841^2d0697f46cf6b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3865"ProcessPCH /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders -I/Users/dairong/IUI/MyFirstApp/Pods/BuildHeaders/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/Pods/build/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.d -c /Users/dairong/IUI/MyFirstApp/Pods/Pods-AFNetworking-prefix.pch -o /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-dkbsaksoawotteczzsctqanlnhnr/Pods-AFNetworking-prefix.pch.pch36"9B521C2F-47C2-4901-9536-006509DD75F4-
+b3CC6BFD6-4AA2-40D2-9744-95E8A7E80FE6
+

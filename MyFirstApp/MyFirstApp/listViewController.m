@@ -7,7 +7,7 @@
 //
 
 #import "listViewController.h"
-#import "AFNetworking.h"
+
 
 @interface listViewController ()
 
@@ -77,7 +77,8 @@
                                   NSLog(@"error %@", error.description);
                               }
                           }];
-
+    
+   
     // Do any additional setup after loading the view.
 }
 
@@ -86,7 +87,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-  
+
 
 
 - (void)makeRequestForUserEvents
@@ -99,6 +100,18 @@
                                   
                                   //NSDictionary *params = [self parseURLParams:result];
                                   //NSLog([NSString stringWithFormat:@"params: %@", params]);
+                            //      _coverurl = [NSURL URLWithString:result[@"cover"][@"source"]];
+                                  NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:result[@"cover"][@"source"]]];
+                                  AFHTTPRequestOperation *requestOperation = [[AFHTTPRequestOperation alloc] initWithRequest:request];
+                                  requestOperation.responseSerializer = [AFImageResponseSerializer serializer];
+                                  [requestOperation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+                                      NSLog(@"Response: %@", responseObject);
+                                     _response = responseObject;
+                                      [self.tableview reloadRowsAtIndexPaths:@[[NSIndexPath indexPathForItem:0 inSection:0]] withRowAnimation:UITableViewRowAnimationNone];
+                                  } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+                                      NSLog(@"Image error: %@", error);
+                                  }];
+                                  [requestOperation start];
                                   
                                   
                                   
@@ -110,6 +123,28 @@
                           }];
     
 }
+-(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
+    return 1;
+}
+
+-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+       return 1;
+}
+-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    static NSString *Cellidentifier = @"Cell";
+    
+    myCell *Cell = [tableView dequeueReusableCellWithIdentifier:Cellidentifier];
+    if(!Cell){
+        Cell = [[myCell alloc]initWithStyle:UITableViewCellStyleDefault reuseIdentifier:Cellidentifier];
+        Cell.coverphoto.image = _response;
+    }
+   
+    return Cell;
+
+}
+
+
+
 
 /*
 #pragma mark - Navigation
