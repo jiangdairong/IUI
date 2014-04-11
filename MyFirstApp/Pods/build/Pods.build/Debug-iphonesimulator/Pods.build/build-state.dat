@@ -68,7 +68,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda72aa3c17f8b841^aad6b23c17f8b841^---0#1#1#--18"Check dependencies36"575661C0-89DD-460C-80C5-4CDCFE2F8885-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese928032719f8b841^0245182719f8b841^---0#1#1#--18"Check dependencies36"0E42D3FD-2F74-4592-9AB1-A04F2C7F2DB9-
 
 CCompileC build/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/dairong/IUI/MyFirstApp/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418802940.475768

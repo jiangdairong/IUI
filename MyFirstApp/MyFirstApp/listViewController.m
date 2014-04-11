@@ -31,11 +31,9 @@
     _TitleLabel = @[@"id",@"name"];
     
     
-    //request cover photo
+    //request
     NSArray *permissionsNeeded = @[@"user_events"];
     
-    
-    // Request the permissions the user currently has
     [FBRequestConnection startWithGraphPath:@"/me"
                           completionHandler:^(FBRequestConnection *connection, id result, NSError *error) {
                               if (!error){
@@ -72,18 +70,20 @@
                                       // We can request the user information
                                       [self makeRequestForUserEvents];
                                   }
-                                  _DetailBasic=@[result[@"id"],result[@"name"],result[@"gender"]];
+                                  _DetailBasic=@[result[@"id"],result[@"name"]/*,result[@"gender"]*/];
                                   
-                              NSLog(@"gender %@", result[@"gender"]);
+                                  NSLog(@"gender %@", result[@"gender"]);
                               } else {
                                   // An error occurred, we need to handle the error
                                   // Check out our error handling guide: https://developers.facebook.com/docs/ios/errors/
                                   NSLog(@"error %@", error.description);
                               }
                           }
-    
+     
      ];
-    
+
+    // Request the permissions the user currently has
+       
     ////////////////////////////////////////////////////
 
     
@@ -104,10 +104,6 @@
     
     FBShareDialogParams *params = [[FBShareDialogParams alloc] init];
     params.link = [NSURL URLWithString:@"https://developers.facebook.com/docs/ios/share/"];
-  /*  id<FBOpenGraphAction> action = (id<FBOpenGraphAction>)[FBGraphObject graphObject];
-    [action setTags:@[@"100004123270335"]];
-   */
-    //////////
     
     
 

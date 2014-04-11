@@ -35,6 +35,7 @@
                             user:(id<FBGraphUser>)user {
     self.profilePictureView.profileID = user.id;
     self.nameLabel.text = user.name;
+
     _List=@[user.id,user.name];
 
     [self performSegueWithIdentifier: @"login" sender:self];

@@ -90,7 +90,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb9fa5d3c17f8b841^88d7993c17f8b841^---0#1#1#--18"Check dependencies36"3EDADCF3-6186-4B99-A35D-18ABC0CFD719-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7252c42619f8b841^5a47f92619f8b841^---0#1#1#--18"Check dependencies36"E2FB3A53-0C63-4ADD-8CF1-1057D70EE82F-
 
 CCompileC build/Pods.build/Debug-iphonesimulator/Pods-JSONKit.build/Objects-normal/i386/JSONKit.o /Users/dairong/IUI/MyFirstApp/Pods/JSONKit/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418802932.101961
