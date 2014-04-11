@@ -10,6 +10,7 @@
 		D018A73D18F4F9B8001C5D89 /* listViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D018A73C18F4F9B8001C5D89 /* listViewController.m */; };
 		D04EB38118F54A6A005B177F /* myCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D04EB38018F54A6A005B177F /* myCell.m */; };
 		D09ADD8D18F66E31008EC084 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D09ADD8C18F66E31008EC084 /* libPods.a */; };
+		D0A50C1B18F78FBC00D72B30 /* secondCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A50C1A18F78FBC00D72B30 /* secondCell.m */; };
 		D0B9F88A18EBAFFB00EE315B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88918EBAFFB00EE315B /* Foundation.framework */; };
 		D0B9F88C18EBAFFB00EE315B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88B18EBAFFB00EE315B /* CoreGraphics.framework */; };
 		D0B9F88E18EBAFFB00EE315B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B9F88D18EBAFFB00EE315B /* UIKit.framework */; };
@@ -44,6 +45,8 @@
 		D04EB37F18F54A6A005B177F /* myCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myCell.h; sourceTree = "<group>"; };
 		D04EB38018F54A6A005B177F /* myCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myCell.m; sourceTree = "<group>"; };
 		D09ADD8C18F66E31008EC084 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphonesimulator/libPods.a"; sourceTree = "<group>"; };
+		D0A50C1918F78FBC00D72B30 /* secondCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secondCell.h; sourceTree = "<group>"; };
+		D0A50C1A18F78FBC00D72B30 /* secondCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = secondCell.m; sourceTree = "<group>"; };
 		D0B9F88618EBAFFB00EE315B /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0B9F88918EBAFFB00EE315B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D0B9F88B18EBAFFB00EE315B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -137,6 +140,8 @@
 				D018A73C18F4F9B8001C5D89 /* listViewController.m */,
 				D04EB37F18F54A6A005B177F /* myCell.h */,
 				D04EB38018F54A6A005B177F /* myCell.m */,
+				D0A50C1918F78FBC00D72B30 /* secondCell.h */,
+				D0A50C1A18F78FBC00D72B30 /* secondCell.m */,
 				D0B9F8A118EBAFFB00EE315B /* Images.xcassets */,
 				D0B9F89018EBAFFB00EE315B /* Supporting Files */,
 			);
@@ -309,6 +314,7 @@
 				D04EB38118F54A6A005B177F /* myCell.m in Sources */,
 				D018A73D18F4F9B8001C5D89 /* listViewController.m in Sources */,
 				D0B9F89618EBAFFB00EE315B /* main.m in Sources */,
+				D0A50C1B18F78FBC00D72B30 /* secondCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,6 +9,7 @@ cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-
 cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386
 cCopyStringsFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings
 cCompileStoryboard /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
@@ -449,9 +450,9 @@ t1396406395
 s136
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
-c0000000053463C8A00000000000035EA
-t1397111946
-s13802
+c000000005347DEF100000000000047BB
+t1397219057
+s18363
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
 c00000000533B912B00000000000005DB
@@ -469,9 +470,19 @@ t1397020554
 s786
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
-c000000005344D9990000000000003383
-t1397021081
-s13187
+c000000005347AAF40000000000000E9B
+t1397205748
+s3739
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m
+c000000005347B1D20000000000000493
+t1397207506
+s1171
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/en.lproj/InfoPlist.strings
 c00000000533B787B000000000000002D
@@ -479,14 +490,14 @@ t1396406395
 s45
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.h
-c0000000053451BD4000000000000023C
-t1397038036
-s572
+c000000005347DEF10000000000000355
+t1397219057
+s853
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m
-c0000000053463C8A0000000000001E89
-t1397111946
-s7817
+c000000005347DFBC0000000000004051
+t1397219260
+s16465
 
 N/Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m
 c00000000533B787B0000000000000150
@@ -503,17 +514,27 @@ c00000000534512E9000000000000027D
 t1397035753
 s637
 
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
+c000000005347DEF10000000000000144
+t1397219057
+s324
+
+N/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m
+c000000005347583C000000000000028A
+t1397184572
+s650
+
 N/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator/libPods.a
 c000000005346357D00000000001A6E10
 t1397110141
 s1732112
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
-t1397111955
+t1397219262
 s306
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM
-t1397110482
+t1397219229
 s102
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist
@@ -521,12 +542,12 @@ t1397110482
 s1169
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Main.storyboardc
-t1397111955
+t1397219062
 s238
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
-t1397111952
-s1549124
+t1397219262
+s1560732
 
 N/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/PkgInfo
 t1397110482
@@ -546,17 +567,22 @@ t1397039323
 s64260
 
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList
-c00000000534520DB0000000000000274
-t1397039323
-s628
+c000000005347D71100000000000002F1
+t1397217041
+s753
 
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o
-t1397039324
-s94304
+t1397219058
+s74932
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o
+c000000005347B1D8000000000000CCA8
+t1397207512
+s52392
 
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o
-t1397111952
-s77252
+t1397219262
+s115612
 
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o
 t1397039323
@@ -565,6 +591,10 @@ s3584
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o
 t1397039323
 s45188
+
+N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o
+t1397219058
+s46392
 
 N/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh
 c00000000534520DB0000000000000103
@@ -729,6 +759,9 @@ r0
 CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m
 r0
 
+CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m
+r0
+
 CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m
 r0
 
@@ -738,9 +771,12 @@ r0
 CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.m
 r0
 
+CBuild AST from /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies43723a0b74f6b841^06b9630b74f6b841^---0#1#1#--18"Check dependencies36"520E50F4-92B7-471E-95D6-B2812120D2B6-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9415b33c17f8b841^bb7dc63c17f8b841^---0#1#1#--18"Check dependencies36"AB165E4B-CFEB-4E29-84A8-AF0DA3B8430C-
 
 CCompileAssetCatalog /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app /Users/dairong/IUI/MyFirstApp/MyFirstApp/Images.xcassets
 s418803258.024041
@@ -811,8 +847,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile
 bCF603095-BF84-46E1-B469-2C56985E8A43
 
 CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418732123.469802
-e418732124.014551
+s418911857.927215
+e418911858.383106
 r1
 xCompileC
 xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o
@@ -861,19 +897,67 @@ d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettin
 d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
 d/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.h
 d/Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.h
-o/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m:232:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
-o                                  NSLog([NSString stringWithFormat:@"user events: %@", result]);
-o                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m:242:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
-o                                  NSLog([NSString stringWithFormat:@"error %@", error.description]);
-o                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o2 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m203"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8960785b58f5b841^39b9035c58f5b841^-726"/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m:232:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"user events: %@", result]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m:242:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"error %@", error.description]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-418732124#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^231#40#231#40#12004#0#19"Format String Issue1(3@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^231#40#231#94#12004#53#-2@60"Format string is not a string literal (potentially insecure)-418732124#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^241#40#241#40#12669#0#19"Format String Issue1(3@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^241#40#241#98#12669#57#-0#0#1#-19%DVTDocumentLocation4@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^3925"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o36"BCB6BC85-7CE0-4FA6-ADF1-2A4D7E64257E-
-bCF603095-BF84-46E1-B469-2C56985E8A43
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m203"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercf81ed7116f8b841^f513627216f8b841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m0000000000000000^3925"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o MyFirstApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/ViewController.o36"1A3B982C-9E7F-4146-A5D0-2E0EB40D23DB-
+bE2504576-86D5-43AE-B8DC-6A82D74954B1
+
+CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418900308.160586
+e418900312.720589
+r1
+xCompileC
+xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.h
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m213"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o MyFirstApp/basicViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler15382954e9f7b841^4f79b858e9f7b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m0000000000000000^3955"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o MyFirstApp/basicViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/basicViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/basicViewController.o36"A38D6E24-36FF-41AD-9FB6-DDDF709A12E2-
+b917C5B80-19BD-48A2-BEFE-339EC4B69E26
 
 CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418804747.730076
-e418804752.593860
+s418912060.911423
+e418912062.044823
 r1
 xCompileC
 xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o
@@ -921,15 +1005,26 @@ d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
 d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
 d/Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
 d/Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.h
-o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:99:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
+o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:205:46: warning: assigning to 'id<FBViewControllerDelegate>' from incompatible type 'listViewController *const __strong'
+o        self.friendPickerController.delegate = self;
+o                                             ^ ~~~~
+o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:253:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
 o                                  NSLog([NSString stringWithFormat:@"user events: %@", result]);
 o                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:121:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:273:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
 o                                  NSLog([NSString stringWithFormat:@"error %@", error.description]);
 o                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o2 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m211"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8202bb0b74f6b841^e605981074f6b841^-733"/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:99:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"user events: %@", result]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:121:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"error %@", error.description]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-418804752#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^98#40#98#40#4836#0#19"Format String Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^98#40#98#94#4836#53#-2@60"Format string is not a string literal (potentially insecure)-418804752#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^120#40#120#40#6712#0#19"Format String Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^120#40#120#98#6712#57#-0#0#1#-19%DVTDocumentLocation4@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^3949"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o36"529DF274-C291-4BF9-B8D1-EB2E12316B26-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:340:12: warning: variable 'n' may be uninitialized when used here [-Wconditional-uninitialized]
+o    return n;
+o           ^
+o/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:330:16: note: initialize the variable 'n' to silence this warning
+o    NSInteger n;
+o               ^
+o                = 0
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m211"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0073e93c17f8b841^31790b3e17f8b841^-1389"/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:205:46: warning: assigning to 'id<FBViewControllerDelegate>' from incompatible type 'listViewController *const __strong'        self.friendPickerController.delegate = self;                                             ^ ~~~~/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:253:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"user events: %@", result]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:273:41: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                  NSLog([NSString stringWithFormat:@"error %@", error.description]);                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:340:12: warning: variable 'n' may be uninitialized when used here [-Wconditional-uninitialized]    return n;           ^/Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m:330:16: note: initialize the variable 'n' to silence this warning    NSInteger n;               ^                = 04 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@103"Assigning to 'id<FBViewControllerDelegate>' from incompatible type 'listViewController *const __strong'-418912062#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^204#45#204#45#11127#0#14"Semantic Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^204#47#204#51#11129#0#-2@60"Format string is not a string literal (potentially insecure)-418912062#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^252#40#252#40#12720#0#19"Format String Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^252#40#252#94#12720#53#-2@60"Format string is not a string literal (potentially insecure)-418912062#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^272#40#272#40#14314#0#19"Format String Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^272#40#272#98#14314#57#-2@48"Variable 'n' may be uninitialized when used here-418912062#18446744073709551615#0#1(2@51"Initialize the variable 'n' to silence this warning-418912062#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^329#15#329#15#15932#0#14"Semantic Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^329#15#329#15#15932#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^339#11#339#11#16106#0#14"Semantic Issue1(3@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^339#11#339#12#16106#0#-0#0#1#-19%DVTDocumentLocation4@68"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m0000000000000000^3949"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o MyFirstApp/listViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o36"675C9D0A-54D0-4E5C-A74C-D7035682E782-
+b27AD86D7-D211-4AEF-BDC5-8DA6BCA85E05
 
 CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418732123.744722
@@ -999,16 +1094,32 @@ d/Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.m187"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o MyFirstApp/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d89785b58f5b841^7096be5b58f5b841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.m0000000000000000^3877"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o MyFirstApp/myCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o36"F659E762-D63A-49F2-9189-8522D49C277E-
 bCF603095-BF84-46E1-B469-2C56985E8A43
 
+CCompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418911857.928340
+e418911858.396995
+r1
+xCompileC
+xbuild/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o
+x/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m
+d/Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m195"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o MyFirstApp/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler74d0ed7116f8b841^73a2657216f8b841^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m0000000000000000^3901"CompileC build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o MyFirstApp/secondCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dairong/IUI/MyFirstApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dairong/IUI/MyFirstApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-generated-files.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-own-target-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-all-target-headers.hmap -iquote /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/MyFirstApp-project-headers.hmap -I/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/include -I/Users/dairong/IUI/MyFirstApp/Pods/Headers -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -I/Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources/i386 -I/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/DerivedSources -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/AFNetworking -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/JSONKit -isystem /Users/dairong/IUI/MyFirstApp/Pods/Headers/Reachability -include /var/folders/w7/25pj9r_s6wsg5vw822qxdycr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/MyFirstApp-Prefix-ekmbthskqeifambdgbmczwshhtvk/MyFirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.d --serialize-diagnostics /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.dia -c /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.m -o /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o36"E31713A7-B02F-4FF7-A0AD-C8329FA832EB-
+bE2504576-86D5-43AE-B8DC-6A82D74954B1
+
 CCompileStoryboard /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
-s418804753.060307
-e418804755.714508
+s418911858.699948
+e418911862.287456
 r1
 xCompileStoryboard
 x/Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard
-o2014-04-10 14:39:14.293 Interface Builder Cocoa Touch Tool[1254:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-o2014-04-10 14:39:15.563 Interface Builder Cocoa Touch Tool[1255:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CompileStoryboard MyFirstApp/Main.storyboard44"CompileStoryboard MyFirstApp/Main.storyboardb2820f1174f6b841^85eab61374f6b841^-462"2014-04-10 14:39:14.293 Interface Builder Cocoa Touch Tool[1254:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-04-10 14:39:15.563 Interface Builder Cocoa Touch Tool[1255:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard0000000000000000^779"CompileStoryboard MyFirstApp/Main.storyboard    cd /Users/dairong/IUI/MyFirstApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Main.storyboardc /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard36"461E5344-A094-4B9A-A09B-97B4EC214B2F-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+o2014-04-11 20:24:19.476 Interface Builder Cocoa Touch Tool[10991:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-04-11 20:24:21.936 Interface Builder Cocoa Touch Tool[10994:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CompileStoryboard MyFirstApp/Main.storyboard44"CompileStoryboard MyFirstApp/Main.storyboardf54cb37216f8b841^4296497616f8b841^-464"2014-04-11 20:24:19.476 Interface Builder Cocoa Touch Tool[10991:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-04-11 20:24:21.936 Interface Builder Cocoa Touch Tool[10994:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard0000000000000000^779"CompileStoryboard MyFirstApp/Main.storyboard    cd /Users/dairong/IUI/MyFirstApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Main.storyboardc /Users/dairong/IUI/MyFirstApp/MyFirstApp/Main.storyboard36"D6F0DB78-5518-40B4-9574-073B0077A980-
+bE2504576-86D5-43AE-B8DC-6A82D74954B1
 
 CCopyStringsFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/en.lproj/InfoPlist.strings MyFirstApp/en.lproj/InfoPlist.strings
 s418803258.023518
@@ -1021,18 +1132,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy My
 b0D381E34-1FF9-4ED3-81EE-52D0FBC291BA
 
 CGenerateDSYMFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
-s418804755.715312
-e418804755.865930
+s418912062.713599
+e418912062.884725
 r1
 xGenerateDSYMFile
 x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM
 x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Generate /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM118"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp562bb71374f6b841^b4aedd1374f6b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM/0000000000000000^616"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM36"B3F205C1-01A7-4AB1-BEC6-8571E4EF1668-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Generate /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM118"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp1ac1b63e17f8b841^d87ee23e17f8b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM/0000000000000000^616"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstApp.app.dSYM build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app.dSYM36"DA3D43BE-A0EE-4B6C-A47B-37E3BF9C1F42-
+b27AD86D7-D211-4AEF-BDC5-8DA6BCA85E05
 
 CLd /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386
-s418804752.596143
-e418804753.059333
+s418912062.046636
+e418912062.711590
 r1
 xLd
 x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp
@@ -1045,6 +1156,7 @@ d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFi
 d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/myCell.o
 d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/listViewController.o
 d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/main.o
+d/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/secondCell.o
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
@@ -1065,6 +1177,7 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
@@ -1087,7 +1200,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
@@ -1114,22 +1226,22 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp68"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386c0b0981074f6b841^0a310f1174f6b841^---0#0#1#--1546"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386    cd /Users/dairong/IUI/MyFirstApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -L/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -filelist /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp_dependency_info.dat -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp36"DB5E9F39-BF47-406C-8287-08336B9993A3-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp68"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i3861d010c3e17f8b841^342cb63e17f8b841^---0#0#1#--1546"Ld build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp normal i386    cd /Users/dairong/IUI/MyFirstApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -L/Users/dairong/IUI/MyFirstApp/Pods/build/Debug-iphonesimulator -F/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator -F/Users/dairong/Documents/FacebookSDK -filelist /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Objects-normal/i386/MyFirstApp_dependency_info.dat -o /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/MyFirstApp36"FDDBC415-F3CD-4D5B-AB9C-D708C33A7766-
+b27AD86D7-D211-4AEF-BDC5-8DA6BCA85E05
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh
-s418804747.390719
-e418804747.727837
+s418912060.775767
+e418912060.909607
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
 x/Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'144"PhaseScriptExecution Check\ Pods\ Manifest.lock build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh3867640b74f6b841^c155ba0b74f6b841^---0#0#1#--324"PhaseScriptExecution Check\ Pods\ Manifest.lock build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh    cd /Users/dairong/IUI/MyFirstApp    /bin/sh -c /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh36"6F432D49-1FA8-47E7-A618-6BF067715A3E-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'144"PhaseScriptExecution Check\ Pods\ Manifest.lock build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh80f3c63c17f8b841^ed99f93c17f8b841^---0#0#1#--324"PhaseScriptExecution Check\ Pods\ Manifest.lock build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh    cd /Users/dairong/IUI/MyFirstApp    /bin/sh -c /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-2ACC8BE745B84E71B530F11F.sh36"3783143E-CAEB-4390-9BA9-22DB53E818CE-
+b27AD86D7-D211-4AEF-BDC5-8DA6BCA85E05
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sh
-s418804755.867142
-e418804757.704265
+s418912062.885341
+e418912063.873716
 r1
 xPhaseScriptExecution
 xCopy Pods Resources
@@ -1138,12 +1250,12 @@ obuilding file list ... done
 o
 osent 29 bytes  received 20 bytes  98.00 bytes/sec
 ototal size is 0  speedup is 0.00
-o2014-04-10 14:39:17.472 IBCocoaTouchImageCatalogTool[1272:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-04-11 20:27:43.683 IBCocoaTouchImageCatalogTool[11327:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
 o/* com.apple.actool.compilation-results */
 o/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'139"PhaseScriptExecution Copy\ Pods\ Resources build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sha164de1374f6b841^414ab41574f6b841^-465"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.002014-04-10 14:39:17.472 IBCocoaTouchImageCatalogTool[1272:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car6(21%IDEActivityLogMessage2@28"building file list ... done-418804756#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-418804756#29#50#-0#-----2@33"total size is 0  speedup is 0.00-418804756#79#33#-0#-----2@225"2014-04-10 14:39:17.472 IBCocoaTouchImageCatalogTool[1272:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-418804757#112#225#-0#-----2@43"/* com.apple.actool.compilation-results */-418804757#337#43#-0#-----2@84"/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car-418804757#380#84#-0#-----0#0#1#--319"PhaseScriptExecution Copy\ Pods\ Resources build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sh    cd /Users/dairong/IUI/MyFirstApp    /bin/sh -c /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sh36"6E5FF390-3999-4B98-A368-5B4E5A6A5CD5-
-bF1EDD7B7-5C58-4142-880D-89AEC6ADF28B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'139"PhaseScriptExecution Copy\ Pods\ Resources build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sha801e33e17f8b841^f7acdf3f17f8b841^-466"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.002014-04-11 20:27:43.683 IBCocoaTouchImageCatalogTool[11327:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car6(21%IDEActivityLogMessage2@28"building file list ... done-418912062#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-418912063#29#50#-0#-----2@33"total size is 0  speedup is 0.00-418912063#79#33#-0#-----2@226"2014-04-11 20:27:43.683 IBCocoaTouchImageCatalogTool[11327:303] CFPreferences: user home directory at file:///Users/dairong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-418912063#112#226#-0#-----2@43"/* com.apple.actool.compilation-results */-418912063#338#43#-0#-----2@84"/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Assets.car-418912063#381#84#-0#-----0#0#1#--319"PhaseScriptExecution Copy\ Pods\ Resources build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sh    cd /Users/dairong/IUI/MyFirstApp    /bin/sh -c /Users/dairong/IUI/MyFirstApp/build/MyFirstApp.build/Debug-iphonesimulator/MyFirstApp.build/Script-9997F76AEE3E4BE9AA123198.sh36"3D6A7FC2-BC53-480A-BB8D-CE884A918026-
+b27AD86D7-D211-4AEF-BDC5-8DA6BCA85E05
 
 CProcessInfoPlistFile /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app/Info.plist /Users/dairong/IUI/MyFirstApp/MyFirstApp/MyFirstApp-Info.plist
 s418803282.051497
@@ -1174,5 +1286,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precomp
 bCF603095-BF84-46E1-B469-2C56985E8A43
 
 CTouch /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
-r0
+s418909849.571514
+e418909849.641417
+r1
+xTouch
+x/Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Touch /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app48"Touch build/Debug-iphonesimulator/MyFirstApp.app315b92990ef8b841^c904a4990ef8b841^---0#0#1#--376"Touch build/Debug-iphonesimulator/MyFirstApp.app    cd /Users/dairong/IUI/MyFirstApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dairong/IUI/MyFirstApp/build/Debug-iphonesimulator/MyFirstApp.app36"F5372B41-1689-4F6A-AD43-53D5212B44FE-
+bA941B3D6-EACF-4940-8644-B1326E1C0EE7
 

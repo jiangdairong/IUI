@@ -37,4 +37,5 @@ dependencies: /Users/dairong/IUI/MyFirstApp/MyFirstApp/ViewController.m \
   /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h \
   /Users/dairong/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h \
   /Users/dairong/IUI/MyFirstApp/MyFirstApp/listViewController.h \
-  /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.h
+  /Users/dairong/IUI/MyFirstApp/MyFirstApp/myCell.h \
+  /Users/dairong/IUI/MyFirstApp/MyFirstApp/secondCell.h
